@@ -1,1 +1,0 @@
-go run helloworld.go
