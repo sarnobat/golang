@@ -1,0 +1,1 @@
+cat ~/trash/out.txt | go run main.go
