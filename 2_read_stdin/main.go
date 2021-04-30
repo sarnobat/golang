@@ -23,6 +23,6 @@ func main() {
 		// Do something with the line of text
 		// in string variable s.
 		_ = s
-		fmt.Print(s)
+		fmt.Print("added: "+s)
 	}
 }
