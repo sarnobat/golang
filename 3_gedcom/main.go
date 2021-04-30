@@ -6,15 +6,37 @@ import (
 	"log"
 	"os"*/
 	"fmt"
-	"github.com/elliotchance/gedcom"
+// 	"github.com/elliotchance/gedcom"
+	"os"
+    "github.com/pborman/getopt"
+
 )
 
 func main() {
-	document, err := gedcom.NewDocumentFromGEDCOMFile("family.ged")
-	if err != nil {
-		panic(err)
-	}
-	fmt.Print(document)
+    optName := getopt.StringLong("name", 'n', "", "Your name")
+	file := getopt.StringLong("file", 'f', "", "Gedcom File")
+    optHelp := getopt.BoolLong("help", 0, "Help")
+    getopt.Parse()
+	args := getopt.Args()
+
+    if *optHelp {
+        getopt.Usage()
+        os.Exit(0)
+    }
+
+    fmt.Println("File:\t" + *file)
+    fmt.Println("Name:\t" + *optName)
+    
+    // Get the remaining positional parameters
+	
+	fmt.Println("positional args: ", args)
+
+
+// 	document, err := gedcom.NewDocumentFromGEDCOMFile("family.ged")
+// 	if err != nil {
+// 		panic(err)
+// 	}
+// 	fmt.Print(document)
 
 /*
 	in := bufio.NewReader(os.Stdin)
