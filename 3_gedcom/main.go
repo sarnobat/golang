@@ -6,10 +6,10 @@ import (
 	"log"
 	"os"*/
 	"fmt"
-// 	"github.com/elliotchance/gedcom"
+	"github.com/elliotchance/gedcom"
 	"os"
     "github.com/pborman/getopt"
-
+	"reflect"
 )
 
 func main() {
@@ -32,11 +32,13 @@ func main() {
 	fmt.Println("positional args: ", args)
 
 
-// 	document, err := gedcom.NewDocumentFromGEDCOMFile("family.ged")
-// 	if err != nil {
-// 		panic(err)
-// 	}
-// 	fmt.Print(document)
+	document, err := gedcom.NewDocumentFromGEDCOMFile("/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged")
+	if err != nil {
+		panic(err)
+	}
+	//reflect.TypeOf(document)
+	fmt.Print(reflect.TypeOf(document))
+	//fmt.Print(document)
 
 /*
 	in := bufio.NewReader(os.Stdin)
