@@ -13,8 +13,8 @@ import (
 )
 
 func main() {
-    optName := getopt.StringLong("name", 'n', "", "Your name")
-	file := getopt.StringLong("file", 'f', "", "Gedcom File")
+    optName := getopt.StringLong("name", 'n', "Prakash", "Your name")
+	file := getopt.StringLong("file", 'f', "/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged", "Gedcom File")
     optHelp := getopt.BoolLong("help", 0, "Help")
     getopt.Parse()
 	args := getopt.Args()
