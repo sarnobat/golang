@@ -25,12 +25,12 @@ func main() {
         os.Exit(0)
     }
 
-    println("File:\t" + *file)
-    println("Name:\t" + *optName)
+    fmt.Println("File:\t" + *file)
+    fmt.Println("Name:\t" + *optName)
     
     // Get the remaining positional parameters
 	
-	println("positional args: ", args)
+	fmt.Println("positional args: ", args)
 
 
 	document, err := gedcom.NewDocumentFromGEDCOMFile("/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged")
@@ -38,12 +38,12 @@ func main() {
 		panic(err)
 	}
 	//reflect.TypeOf(document)
-	print(reflect.TypeOf(document))
-	//print(document)
+	fmt.Print(reflect.TypeOf(document))
+	//fmt.Print(document)
 	
 	for _, individual := range document.Individuals() {
-	  println(individual)
-	  //println("")
+	  fmt.Println(individual)
+	  //fmt.Println("")
 	}
 	
 	
@@ -61,13 +61,13 @@ func main() {
 		// Do something with the line of text
 		// in string variable s.
 		_ = s
-		//print("added: "+s)
+		//fmt.Print("added: "+s)
 		
 		trimmed := strings.TrimSpace(s);
 		level,err := strconv.Atoi(strings.Split(trimmed," ")[0])
-        print(strings.Repeat("\t",level))
-        print(trimmed)
-        print("\n")
+        fmt.Print(strings.Repeat("\t",level))
+        fmt.Print(trimmed)
+        fmt.Print("\n")
 	}
 
 
