@@ -1,15 +1,16 @@
 package main
 
 import (
-/*	"bufio"
+	"bufio"
 	"io"
 	"log"
-	"os"*/
 	"fmt"
 	"github.com/elliotchance/gedcom"
 	"os"
     "github.com/pborman/getopt"
 	"reflect"
+	"strings"
+	"strconv"
 )
 
 func main() {
@@ -42,10 +43,10 @@ func main() {
 	
 	for _, individual := range document.Individuals() {
 	  fmt.Println(individual)
+	  //fmt.Println("")
 	}
-
-
-/*
+	
+	
 	in := bufio.NewReader(os.Stdin)
 	for {
 		s, err := in.ReadString('\n')
@@ -60,8 +61,15 @@ func main() {
 		// Do something with the line of text
 		// in string variable s.
 		_ = s
-		fmt.Print("added: "+s)
+		//fmt.Print("added: "+s)
+		
+		trimmed := strings.TrimSpace(s);
+		level,err := strconv.Atoi(strings.Split(trimmed," ")[0])
+        print(strings.Repeat("\t",level))
+        print(trimmed)
+        print("\n")
 	}
-*/
+
+
 }
 
