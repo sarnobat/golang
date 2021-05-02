@@ -10,14 +10,14 @@ import (
 	"strconv"
 )
 
+// Thanks to this page for the original code:
+// https://ebixio.com/blog/2012/03/05/editing-gedcom-files-with-vim
 func main() {
 	
 	in := bufio.NewReader(os.Stdin)
 	for {
 		s, err := in.ReadString('\n')
 		if err != nil {
-			// io.EOF is expected, anything else
-			// should be handled/reported
 			if err != io.EOF {
 				log.Fatal(err)
 			}
@@ -29,7 +29,5 @@ func main() {
         fmt.Print(trimmed)
         fmt.Print("\n")
 	}
-
-
 }
 
