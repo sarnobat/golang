@@ -10,6 +10,7 @@ import (
 	"os"
     "github.com/pborman/getopt"
 	"reflect"
+	"encoding/json"
 )
 
 func main() {
@@ -41,20 +42,57 @@ func main() {
 	//fmt.Print(document)
 	
 	for _, individual := range document.Individuals() {
-	  fmt.Println(individual)
-	}
+//		data,_ := json.Marshal(individual)
+//		fmt.Printf("%s\n", data)
+		
+		fmt.Println(individual.UniqueIdentifiers())
+		fmt.Println(reflect.TypeOf(individual.UniqueIdentifiers()))
+		fmt.Println(*individual.UniqueIdentifiers())
+		fmt.Println((*individual.UniqueIdentifiers()).Strings())
+		fmt.Println((*individual.UniqueIdentifiers()).String())
+		
+		gett := document.Individuals().ByUniqueIdentifier((*individual.UniqueIdentifiers()).String());
+//		gett :=document.Individuals().ByUniqueIdentifier("(603c08de-ccff-91eb-2389-000000000000)");
+//				gett :=document.Individuals().ByUniqueIdentifier("");
 
+		
+		
+//		fmt.Println(gett);
+		data1,_ := json.Marshal(gett)
+	fmt.Printf("%s\n", data1)
+
+
+
+		fmt.Println();
+		
+		
+		//fmt.Println(individual.UniqueIDs())
+		//fmt.Printf("%#v\n", individual)
+		
+	}
+/*
 	str := "";
 	for _, fam := range document.Families() {
 	  str += getFamilyAsString(fam);
-	}
-	print(str)
-
+	}*/
+//	print(str)
+//	a :=document.Individuals().ByUniqueIdentifier("(603c08de-ccff-91eb-2389-000000000000)");
+// 	print(a);
+// 	for _, fam := range document.Families() {
+//	}
 
 }
-
+/*
 func getFamilyAsString(family *gedcom.FamilyNode) string {
-	
-	return family.String();
+	print((*family).String());
+	ret := family.String() + "\n";
+	for _,child := range family.Children() {
+		if (child.Family() == family) {
+			//os.Exit(-1);
+		}
+		//ret = ret + getFamilyAsString(child.Individual().());
+	}
+	return ret;
 	
 }
+*/
