@@ -5,3 +5,5 @@ mv 3_gedcom gedcom
 gedcom
 
 gedcom --name Sridhar --file rohidekar.ged hi
+
+cat rohidekar.ged | gedcom_indent
