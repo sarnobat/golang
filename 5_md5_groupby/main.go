@@ -18,14 +18,11 @@ func main() {
 	for {
 		s, err := in.ReadString('\n')
 		if err != nil {
-			// io.EOF is expected, anything else
-			// should be handled/reported
 			if err != io.EOF {
 				log.Fatal(err)
 			}
 			break
 		}
-		// Do something with the line of text
 
 		r := regexp.MustCompile(`(?P<Md5>[^\s]+)\s+(?P<Path>.*)`)
 		elem := r.FindStringSubmatch(s)
@@ -38,11 +35,10 @@ func main() {
 			fmt.Println("Initial - " + prevMd5)
 		} else if prevMd5 == elem[1] {
 			// Don't print anything, wait until the end
-			vals, _ := mapp.Get(elem[1])
-			if len(vals) > 1 {
-
-				fmt.Printf("Values: %d\n", len(vals))
-			}
+// 			vals, _ := mapp.Get(elem[1])
+// 			if len(vals) > 1 {
+// 				fmt.Printf("Values: %d\n", len(vals))
+// 			}
 			if countBefore == 1 && countAfter == 1 {
 				fmt.Println("error: ovewrote last value")
 				os.Exit(-1)
