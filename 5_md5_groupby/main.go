@@ -24,6 +24,8 @@ func main() {
 			break
 		}
 
+		// TODO: change this to support delimiter "::" so that we can
+		// use this on exif_gps output and group photos (then display them on google maps)
 		r := regexp.MustCompile(`(?P<Md5>[^\s]+)\s+(?P<Path>.*)`)
 		elem := r.FindStringSubmatch(s)
 
@@ -32,21 +34,15 @@ func main() {
 		countAfter := len(mapp.Values())
 
 		if prevMd5 == "" {
-			fmt.Println("Initial - " + prevMd5)
+			// Don't print anything before seeing the 2nd row
 		} else if prevMd5 == elem[1] {
 			// Don't print anything, wait until the end
-// 			vals, _ := mapp.Get(elem[1])
-// 			if len(vals) > 1 {
-// 				fmt.Printf("Values: %d\n", len(vals))
-// 			}
 			if countBefore == 1 && countAfter == 1 {
 				fmt.Println("error: ovewrote last value")
 				os.Exit(-1)
 			}
 		} else {
-			prevMd5 = elem[1]
-
-			// end of subsequence
+			// Print the aggregate, end of subsequence
 			fmt.Print(countAfter)
 			fmt.Print("\t")
 			fmt.Print(elem[1])
