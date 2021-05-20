@@ -29,28 +29,41 @@ func main() {
 		r := regexp.MustCompile(`(?P<Md5>[^\s]+)\s+(?P<Path>.*)`)
 		elem := r.FindStringSubmatch(s)
 
-		countBefore := len(mapp.Values())
-		mapp.Put(elem[1], elem[2])
-		countAfter := len(mapp.Values())
+// fmt.Fprintf(os.Stderr, "[DEBUG] elem[1] = %v\n", elem[1])
+// fmt.Fprintf(os.Stderr, "[DEBUG] elem[2] = %v\n", elem[2])
+// fmt.Fprintf(os.Stderr, "[DEBUG]\n")
+
 
 		if prevMd5 == "" {
 			// Don't print anything before seeing the 2nd row
 		} else if prevMd5 == elem[1] {
+// fmt.Fprintf(os.Stderr, "[DEBUG] prevMd5 == elem[1] = %v\n", prevMd5,elem[1])
 			// Don't print anything, wait until the end
-			if countBefore == 1 && countAfter == 1 {
-				fmt.Println("error: ovewrote last value")
-				os.Exit(-1)
-			}
+
 		} else {
 			// Print the aggregate, end of subsequence
-			fmt.Print(countAfter)
+			prevValues, _ := mapp.Get(prevMd5)
+			fmt.Print(len(prevValues))
 			fmt.Print("\t")
-			fmt.Print(elem[1])
+			fmt.Print(prevMd5)
 			fmt.Print("\t")
-			fmt.Println(mapp.Values())
+			fmt.Println(prevValues)
 
 			mapp.Clear()
 		}
+		countBefore := len(mapp.Values())
+// 		fmt.Fprintf(os.Stderr, "[DEBUG] mapp = %v\n", mapp)
+
+		mapp.Put(elem[1], elem[2])
+// 		fmt.Fprintf(os.Stderr, "[DEBUG] mapp = %v\n", mapp)
+		countAfter := len(mapp.Values())
+
+		if countBefore == 1 && countAfter == 1 {
+			fmt.Println("error: ovewrote last value")
+			os.Exit(-1)
+		}
 		prevMd5 = elem[1]
+		
+		
 	}
 }
