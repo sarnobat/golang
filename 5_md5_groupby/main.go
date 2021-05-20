@@ -8,12 +8,31 @@ import (
 	"log"
 	"os"
 	"regexp"
+    "github.com/pborman/getopt"
 )
 
 func main() {
-	in := bufio.NewReader(os.Stdin)
+
+	optDelimiter := "\\s+"
+	optDelimiter2 := getopt.StringLong("delimiter", 'd', "\\s+", "Group file paths onto a single line")
+
+    optHelp := getopt.BoolLong("help", 0, "Help")
+	oneline := getopt.BoolLong("oneline", 0, "Group file paths onto a single line")
+    getopt.Parse()
+
+    if *optHelp {
+        getopt.Usage()
+        os.Exit(0)
+    }
+        
+	if (optDelimiter == *optDelimiter2) {
+		optDelimiter = *optDelimiter2
+	//	println("all good: optDelimiter = " + optDelimiter)
+	} else {
+	//	println("Using a different delimiter")
+	}
 	
-	oneline := false;
+	in := bufio.NewReader(os.Stdin)
 
 	mapp := slicemultimap.New()
 	prevMd5 := ""
@@ -28,7 +47,13 @@ func main() {
 
 		// TODO: change this to support delimiter "::" so that we can
 		// use this on exif_gps output and group photos (then display them on google maps)
-		r := regexp.MustCompile(`(?P<Md5>[^\s]+)\s+(?P<Path>.*)`)
+		//delim := "\s+"
+		//exp := `(?P<Md5>[^\s]+)\s+(?P<Path>.*)`
+// 		optDelimiter2 := "\\s+"
+// 		fmt.Fprintf(os.Stderr, "[DEBUG] optDelimiter2 = %v\n", optDelimiter2)
+		exp := "(?P<Md5>[^\\s]+)"+ optDelimiter +"(?P<Path>.*)"
+		fmt.Fprintf(os.Stderr, "[DEBUG] exp = %v\n", exp)
+		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
 
 		// fmt.Fprintf(os.Stderr, "[DEBUG] elem[1] = %v\n", elem[1])
@@ -45,7 +70,7 @@ func main() {
 			// Print the aggregate, end of subsequence
 			prevValues, _ := mapp.Get(prevMd5)
 			
-			if (oneline) {
+			if (*oneline) {
 				fmt.Print(len(prevValues))
 				fmt.Print("\t")
 				fmt.Print(prevMd5)
