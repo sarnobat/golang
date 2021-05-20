@@ -12,6 +12,8 @@ import (
 
 func main() {
 	in := bufio.NewReader(os.Stdin)
+	
+	oneline := false;
 
 	mapp := slicemultimap.New()
 	prevMd5 := ""
@@ -42,11 +44,28 @@ func main() {
 		} else {
 			// Print the aggregate, end of subsequence
 			prevValues, _ := mapp.Get(prevMd5)
-			fmt.Print(len(prevValues))
-			fmt.Print("\t")
-			fmt.Print(prevMd5)
-			fmt.Print("\t")
-			fmt.Println(prevValues)
+			
+			if (oneline) {
+				fmt.Print(len(prevValues))
+				fmt.Print("\t")
+				fmt.Print(prevMd5)
+				fmt.Print("\t")
+				fmt.Println(prevValues)
+			} else {
+				fmt.Println()
+				for _, s := range prevValues {
+
+					fmt.Print(len(prevValues))
+					fmt.Print("\t")
+					fmt.Print(prevMd5)
+					fmt.Print("\t")
+					fmt.Println(s)
+				}
+				fmt.Print(len(prevValues))
+				fmt.Print("\t")
+				fmt.Print(prevMd5)
+				fmt.Print("\t")
+			}
 
 			mapp.Clear()
 		}
