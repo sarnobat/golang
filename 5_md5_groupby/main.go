@@ -13,9 +13,7 @@ import (
 
 func main() {
 
-	optDelimiter := "\\s+"
-	optDelimiter2 := getopt.StringLong("delimiter", 'd', "\\s+", "Group file paths onto a single line")
-
+	optDelimiter := *getopt.StringLong("delimiter", 'd', "\\s+", "Group file paths onto a single line")
 	optHelp := getopt.BoolLong("help", 0, "Help")
 	oneline := getopt.BoolLong("oneline", 0, "Group file paths onto a single line")
 	getopt.Parse()
@@ -23,13 +21,6 @@ func main() {
 	if *optHelp {
 		getopt.Usage()
 		os.Exit(0)
-	}
-
-	if optDelimiter == *optDelimiter2 {
-		optDelimiter = *optDelimiter2
-		//	println("all good: optDelimiter = " + optDelimiter)
-	} else {
-		//	println("Using a different delimiter")
 	}
 
 	in := bufio.NewReader(os.Stdin)
