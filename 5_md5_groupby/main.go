@@ -43,7 +43,7 @@ func main() {
 		// 		optDelimiter2 := "\\s+"
 		// 		fmt.Fprintf(os.Stderr, "[DEBUG] optDelimiter2 = %v\n", optDelimiter2)
 		exp := "(?P<Md5>[^\\s]+)" + optDelimiter + "(?P<Path>.*)"
-		fmt.Fprintf(os.Stderr, "[DEBUG] exp = %v\n", exp)
+//		fmt.Fprintf(os.Stderr, "[DEBUG] exp = %v\n", exp)
 		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
 
