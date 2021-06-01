@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/jwangsadinata/go-multimap/slicemultimap"
 	"github.com/pborman/getopt"
 	"io"
 	"log"
@@ -13,7 +12,7 @@ import (
 
 func main() {
 
-	optDelimiter := *getopt.StringLong("pad", 'd', "\\*+", "Character sequence to be expanded to parent text")
+	optDelimiter := *getopt.StringLong("pad", 'd', "\\*", "Character sequence to be expanded to parent text")
 	optHelp := getopt.BoolLong("help", 0, "Help")
 	getopt.Parse()
 
@@ -24,8 +23,6 @@ func main() {
 
 	in := bufio.NewReader(os.Stdin)
 
-	mapp := slicemultimap.New()
-	prevMd5 := ""
 	for {
 		s, err := in.ReadString('\n')
 		if err != nil {
@@ -35,9 +32,15 @@ func main() {
 			break
 		}
 
-		exp := "^" + optDelimiter + "*(.*)"
+		exp := "^(" + optDelimiter + "*)(.*)"
 		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
 
+		fmt.Println(len(elem[1]))
+		
+		for i := 0; i < len(elem[1]); i++ {
+			fmt.Print("-")
+		}
+		fmt.Print(elem[2])
 	}
 }
