@@ -13,11 +13,18 @@ import (
 func main() {
 
 	optDelimiter := *getopt.StringLong("pad", 'd', "\\*", "Character sequence to be expanded to parent text")
-	optHelp := getopt.BoolLong("help", 0, "Help")
+	optHelp := getopt.BoolLong("help", 'h', "Show this help message and exit")
+	optVersion := getopt.BoolLong("version", 'v', "Show version and exit")
+	
 	getopt.Parse()
 
 	if *optHelp {
 		getopt.Usage()
+		os.Exit(0)
+	}
+
+	if *optVersion {
+		fmt.Println("2021-05-31")
 		os.Exit(0)
 	}
 
