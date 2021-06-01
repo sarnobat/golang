@@ -1,166 +1,730 @@
-/Venkatesh Rohidekar (-- Tarabai)
-/Venkatesh Rohidekar (-- Tarabai)/Bhimka Anand Rao (-- Radhabai)
-/Venkatesh Rohidekar (-- Tarabai)/Anand Rao
-/Venkatesh Rohidekar (-- Tarabai)/Anand Rao/Venkawwa Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Renubai)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Venkatesh Rohidekar (-- Rangubai Padki)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Puttaka Rohidekar (-- Chakarapani Bangalore Krishnaswamny)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Puttaka Rohidekar (-- Chakarapani Bangalore Krishnaswamny)/Madhavi BC (-- Narayan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/[Chakarapani -- Lakshmi?]
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/[Chakarapani -- Lakshmi?]/Sindhoo BC (-- Ganesh)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/[Chakarapani -- Lakshmi?]/Sindhoo BC (-- Ganesh)/Tanvi
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Lallakka Rohidekar (-- Narsimhamurthy DP)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Lallakka Rohidekar (-- Narsimhamurthy DP)/Pujitha Nagarajan
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Lallakka Rohidekar (-- Narsimhamurthy DP)/Jeevan Bharadhwaj DN (-- Tejasvi N. Rao)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Lallakka Rohidekar (-- Narsimhamurthy DP)/Shreeneedhi DN (-- Rashmi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Sanvi
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Raghanath/Gopal Rohidekar (-- Radha)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Raghanath/Gopal Rohidekar (-- Radha)/Rajiva Rohidekar (-- Rohini / Amruta)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Raghanath/Gopal Rohidekar (-- Radha)/Rajiva Rohidekar (-- Rohini / Amruta)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Raghanath/Gopal Rohidekar (-- Radha)/Rahul Rohidekar (-- Rashmi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Nirmala/Asha Rohidekar (-- Ashok Sadarjoshi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Jayaraj Rohidekar (-- Vijaya Sadarjoshi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Jayaraj Rohidekar (-- Vijaya Sadarjoshi)/Ajay Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Jayaraj Rohidekar (-- Vijaya Sadarjoshi)/Prema Rohidekar (-- Prakash Kulkarni)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Jayaraj Rohidekar (-- Vijaya Sadarjoshi)/Prema Rohidekar (-- Prakash Kulkarni)/Poornima Kulkarni
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Ramachandra Rohidekar (-- Sitabai Anikhindi)/Jayaraj Rohidekar (-- Vijaya Sadarjoshi)/Prema Rohidekar (-- Prakash Kulkarni)/Prasanna Kulkarni
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Ravindra Rohidekar (-- Snehalata Rao)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Ravindra Rohidekar (-- Snehalata Rao)/Gautum Rohidekar <!-- (-- Aparna) -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Ravindra Rohidekar (-- Snehalata Rao)/Puneet Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Meenakshi Rohidekar (-- Sudhir Sarnobat)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Meenakshi Rohidekar (-- Sudhir Sarnobat)/Prakash Sarnobat
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Meenakshi Rohidekar (-- Sudhir Sarnobat)/Sridhar Sarnobat
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Meenakshi Rohidekar (-- Sudhir Sarnobat)/Priya Sarnobat (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Meenakshi Rohidekar (-- Sudhir Sarnobat)/Priya Sarnobat (-- ??)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Srinivas Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/(stillborn - no name) Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Deepak Rohidekar (-- Anupama)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Shamaji Rohidekar (-- Laxmibai Rama)/Deepak Rohidekar (-- Anupama)/Gaurav Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Manjula Rohidekar (-- Shamsundar Bengeri)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Manjula Rohidekar (-- Shamsundar Bengeri)/Megha Bengeri (-- Jagdish)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Manjula Rohidekar (-- Shamsundar Bengeri)/Megha Bengeri (-- Jagdish)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Manjula Rohidekar (-- Shamsundar Bengeri)/Amit Bengeri (-- Varada)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Manjula Rohidekar (-- Shamsundar Bengeri)/Amit Bengeri (-- Varada)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Aadya Bengeri
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Parimala Rohidekar (-- Sham Gombi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Parimala Rohidekar (-- Sham Gombi)/Soudamini Gombi (-- Yoga)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Parimala Rohidekar (-- Sham Gombi)/Soudamini Gombi (-- Yoga)/Kush
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Parimala Rohidekar (-- Sham Gombi)/Sindhu Gombi (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Anand Rohidekar (-- Vidya Rao)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Anand Rohidekar (-- Vidya Rao)/Bhavana Rohidekar (-- Durgaprasad Bilagi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Anand Rohidekar (-- Vidya Rao)/Bhavana Rohidekar (-- Durgaprasad Bilagi)/Swaraat
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Venkatesh Rohidekar (-- Latha Kulkarni)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Bagavanth Rohidekar (-- Krishna/Shanthabai Taalikoti)/Madhav Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vinod Rohidekar (-- Vasudha Kadiyali)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vinod Rohidekar (-- Vasudha Kadiyali)/Vibhas Rohidekar (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vinod Rohidekar (-- Vasudha Kadiyali)/Vandita Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vidya Rohidekar (-- Vaman Simha)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vidya Rohidekar (-- Vaman Simha)/Meghana Simha (-- Minaz Sajan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vidya Rohidekar (-- Vaman Simha)/Meghana Simha (-- Minaz Sajan)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vidya Rohidekar (-- Vaman Simha)/Meghana Simha (-- Minaz Sajan)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vidya Rohidekar (-- Vaman Simha)/Tejashree Simha (-- Vineeth)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vilas Rohidekar (-- Usha S.G.)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Veena Rohidekar (-- Jayprakash)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Veena Rohidekar (-- Jayprakash)/Ketaki Jayaprakash
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vijay Rohidekar (-- Anuradha Kulkarni)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vijay Rohidekar (-- Anuradha Kulkarni)/Poorvi Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vijay Rohidekar (-- Anuradha Kulkarni)/Varsha Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vasanti Rohidekar (-- Vasudevan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vasanti Rohidekar (-- Vasudevan)/Vallabh Vasudevan
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/Vasanti Rohidekar (-- Vasudevan)/Vaibhav Vasudevan
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (Sumitra Dani / Geetabai)/(no name) Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Suresh Adabaddi (-- Vatsala / Vijaya Kshirsagar )
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Suresh Adabaddi (-- Vatsala / Vijaya Kshirsagar )/'Peetu' Sandeep Adabaddi
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Suresh Adabaddi (-- Vatsala / Vijaya Kshirsagar )/'Cheetu' Sagar Adabaddi (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Suresh Adabaddi (-- Vatsala / Vijaya Kshirsagar )/'Cheetu' Sagar Adabaddi (-- ??)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Suresh Adabaddi (-- Vatsala / Vijaya Kshirsagar )/'Cheetu' Sagar Adabaddi (-- ??)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sulabha Rao Adabaddi <!-- Shuba after marriage --> (-- Raghavendra Rao S)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)/Archana Muthalik (-- Gururaj Beloli)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)/Archana Muthalik (-- Gururaj Beloli)/?? <!-- daughter -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)/Archana Muthalik (-- Gururaj Beloli)/?? <!-- daughter -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)/Vandana (-- Amit Umrani)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Sarala Addabaddi (-- Surendhra Muthalik)/Meghana (-- Anant Mahajan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Jyothi Adabaddi			 (-- Dattatreya Pujar)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Jyothi Adabaddi			 (-- Dattatreya Pujar)/Vishal Pujar (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Godavari Rohidekar (-- Muralidhar Adabaddi)/Jyothi Adabaddi			 (-- Dattatreya Pujar)/Anagha Pujar (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Vatsala Rohidekar (-- Raghavendra Jagirdar)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Vatsala Rohidekar (-- Raghavendra Jagirdar)/Pushpa ( -- SR Kulkarni)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Vatsala Rohidekar (-- Raghavendra Jagirdar)/Pushpa ( -- SR Kulkarni)/?? <!-- daughter? -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Raghunath Rao Rohidekar (-- Janaki Kodagli)/Vatsala Rohidekar (-- Raghavendra Jagirdar)/Pushpa ( -- SR Kulkarni)/?? <!-- daughter? -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Tulasakka Rohidekar (-- Vaman Rao Mirji)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)/V Sudharshan Harihar (-- Suma Sudharshan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)/V Sudharshan Harihar (-- Suma Sudharshan)/Suhas Harihar (-- Ritinder Kaur)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)/V Sudharshan Harihar (-- Suma Sudharshan)/Suhas Harihar (-- Ritinder Kaur)/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)/Vasanthi ‘Bhagi’ Harish ( -- K Harish)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Usha (Vaman Rao)/Vasanthi ‘Bhagi’ Harish ( -- K Harish)/K H Anirudh <!-- son -->
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)/Snehalatha / Appu? (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)/Snehalatha / Appu? (-- ??)/Sapna
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)/Snehalatha / Appu? (-- ??)/Sonali
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)/Ravindra / Anil?
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Jinki Prema (-- ??)/Ravindra / Anil?/Paavni
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Ramesh
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Ramesh/Rashmi
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Ramesh/Vani
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Ramesh/Koushik
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/'Baby'/ Sudha (-- Gururaj)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/'Baby'/ Sudha (-- Gururaj)/Archana Kulkarni <!-- Facebook --> (-- Shashidar Kulkarni)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/'Baby'/ Sudha (-- Gururaj)/Archana Kulkarni <!-- Facebook --> (-- Shashidar Kulkarni)/Aghamya Kulkarni
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/'Baby'/ Sudha (-- Gururaj)/MG Arvind (-- Ruthika <!--Facebook-->)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/<!-- Dr --> Anand Rao
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/<!-- Dr --> Anand Rao/Siddhanth
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/<!-- Dr --> Anand Rao/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/Prakash
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/Prakash/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Chmpakka Rohidekar (-- ?? Habbu)/Vijaya / Viji (-- Pralad Rao)/Prakash/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Susheela Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Vasant Rohidekar (-- Kaveri Parvatikar)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Vasant Rohidekar (-- Kaveri Parvatikar)/Sreenivas Rohidekar (-- ??)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Vasant Rohidekar (-- Kaveri Parvatikar)/Venkatesh Rohidekar (-- Venkana)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Vasant Rohidekar (-- Kaveri Parvatikar)/Venkatesh Rohidekar (-- Venkana)/Sharad Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Vasant Rohidekar (-- Kaveri Parvatikar)/Venkatesh Rohidekar (-- Venkana)/Ashwhini Rohidekar (-- Madan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Sridhar Rohidekar (-- Anjana Mathad)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Sridhar Rohidekar (-- Anjana Mathad)/Sameer Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Gururaj Rohidekar (-- Manjula Benkal)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Gururaj Rohidekar (-- Manjula Benkal)/Kiran Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Gururaj Rohidekar (-- Manjula Benkal)/Rachana 'Gauri' Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Veena (-- Vasant Nagsampige)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Veena (-- Vasant Nagsampige)/Pramod Nagsampige
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Ranga Rao Rohidekar (-- Shankuntala Potdar)/Veena (-- Vasant Nagsampige)/Pavan Nagsampige
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Anuraddha Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Rohini Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Rohini Rohidekar/Aishwarya
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Shree Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Shree Rohidekar/Shashank
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Babu Rao Rohidekar/Shree Rohidekar/??
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Rupa Rohidekar (-- Govindaswamy)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Rupa Rohidekar (-- Govindaswamy)/Rashmi Govind (-- Raghavendra)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Rupa Rohidekar (-- Govindaswamy)/Rashmi Govind (-- Raghavendra)/Vishnu
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Rupa Rohidekar (-- Govindaswamy)/Ramya Govind (-- Srinivas?)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Satish Rohidekar (-- Chitra Srinivasan)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Satish Rohidekar (-- Chitra Srinivasan)/Akhil Rohidekar
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Indira (-- Krishnamurthy)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Indira (-- Krishnamurthy)/Dhilip Krishnamurthy
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Krishnamurthy Rohidekar (-- Lakshmi)
-/Venkatesh Rohidekar (-- Tarabai)/Laxman V Rohidekar (-- Sitabai)/Krishnaji Laxman Rohidekar (-- Venkubai)/Raghavendra Rohidekar/Krishnamurthy Rohidekar (-- Lakshmi)/Nikhil Rohidekar
+@I402@	Khatavkar, null
+@I414@	Inamdar, Krishnamurthy
+@I317@	Deshpande, Sanjay
+@I426@	Inamdar, null
+@I305@	Deshpande, Rohan
+@I438@	Hallur, Kritina Pramila
+@I2@	Sarnobat, Prakash
+@I81@	Rohidekar, Varsha
+@I93@	
+@I208@	null, Laxman
+@I329@	null
+@I403@	
+@I306@	Deshpande, Nikita
+@I415@	Inamdar, Venugopal
+@I427@	Inamdar, Pavaman
+@I3@	Rohidekar, Meenakshi
+@I80@	Rohidekar, Poorvi
+@I92@	
+@I209@	Sarnobat, Balkrishna
+@I439@	null, Gangabai
+@I318@	Deshpande, Seema
+@I315@	Deshpande, Murulidhar
+@I424@	
+@I303@	Deshpande, Pradeep
+@I436@	null, Meghana
+@I218@	Sarnobat, Anuja
+@I339@	Sarnobat, Leela
+@I448@	Karanam, Susislendra Rao
+@I206@	Deshmukh, Megh
+@I327@	null
+@I400@	Gajbar, Sameer
+@I412@	Karanam, Narasappa Lakshmi
+@I4@	Rohidekar, Shamaji
+@I71@	Rohidekar, Rahul
+@I83@	null, Peetu
+@I95@	
+@I109@	Rohidekar, Sreenivas
+@I304@	null
+@I413@	Inamdar, Shobha
+@I425@	
+@I207@	Deshmukh, Sawani
+@I328@	Sarnobat, Nithin
+@I437@	Hallur, Krishna
+@I316@	null, Leela
+@I449@	Karanam, Lakshmi Narsappa
+@I401@	
+@I5@	Sarnobat, Priya
+@I70@	null, Rajiva
+@I82@	null, Vallabh
+@I94@	
+@I219@	Sarnobat, Damodar Sripad
+@I6@	Sarnobat, Sudhir
+@I190@	Naik, Vikram
+@I406@	Katti, Rajat
+@I418@	Hallur, Ravi
+@I309@	null, Sarala
+@I7@	Rohidekar, Deepak
+@I192@	Halliyal, Arvind
+@I191@	null, Gayatri
+@I407@	null, Yamuna
+@I419@	Hallur, Geetha
+@I404@	Gajbar, null
+@I416@	Inamdar, Bhouma
+@I90@	
+@I8@	null, Anupama
+@I91@	
+@I319@	null, Sangeeta
+@I428@	Inamdar, Gauri
+@I307@	
+@I405@	Katti, Vilas B
+@I9@	
+@I308@	Deshpande, Vasant
+@I417@	Hallur, null
+@I429@	Hallur, Ritwik Prajwal
+@I248@	null
+@I369@	Kanago, Shilpa
+@I127@	
+@I139@	null, Usha
+@I103@	null, Ramesh ?
+@I212@	Sarnobat, Neeelkanthand
+@I333@	Sarnobat, Bhagwant
+@I442@	
+@I115@	
+@I200@	null, Shreya
+@I321@	Deshpande, Aditi
+@I454@	Karanam, Raghunath Rao
+@I357@	Jinralkar, Shreyas
+@I466@	Tamraparni, Madhumathi
+@I224@	Sarnobat, Ramesh
+@I345@	Sarnobat, Damodar
+@I478@	Kulkarni, Shamu
+@I430@	Hallur, Lakshmi Roma
+@I249@	
+@I479@	Sarnobat, Vijay
+@I358@	null, Aarya
+@I116@	Rohidekar, Sameer
+@I128@	Rohidekar, Nikhil
+@I201@	null, Father of Shreya
+@I322@	Baxi, null
+@I431@	Dandin, Govind Rao
+@I104@	null, 'Baby'
+@I310@	Deshpande, Ajit
+@I443@	null, Yamuna
+@I225@	Dabeer, Nutan
+@I346@	Sarnobat, Anjali
+@I455@	Karanam, Bhargavi
+@I213@	Sarnobat, Vishnu
+@I334@	Sarnobat, Gajanan (Pandit)
+@I467@	null, Pavithra
+@I149@	Sarnobat, Uday
+@I125@	null, Krishnamurthy
+@I355@	Desai, Kaustub
+@I464@	Tamraparni, Raghanaj
+@I137@	Rao, Vidya
+@I222@	Sarnobat, Srinivas (Bapusaheb)
+@I343@	Kulkarni, Ujwala (Tippurli)
+@I476@	null, Chabi
+@I101@	null, Usha
+@I258@	Kulkarni, Rupa
+@I379@	Sarnobat, Sankalp
+@I488@	(Mumbai), null
+@I113@	Rohidekar, Indumati
+@I246@	null
+@I367@	Naik, Murli
+@I210@	null, Ancestors
+@I331@	Sarnobat, Konher (Tatyasaheb)
+@I440@	
+@I452@	Karanam, Sridhar Rao
+@I259@	Deshpande, Pallavi / Nita?
+@I138@	Kulkarni, Latha
+@I114@	Rohidekar, Krishnamurthy
+@I223@	Kulkarni, Padmavati
+@I344@	Sarnobat, Vithal
+@I453@	Karanam, null
+@I126@	null, Dhilip
+@I211@	Sarnobat, Sadashiv
+@I332@	Sarnobat, Shrikrishna
+@I465@	Tamraparni, Guruprasad
+@I247@	null
+@I368@	Sarnobat, Sudhavshu
+@I477@	null, Shalu
+@I102@	null, Jirki
+@I356@	null, Yashraj
+@I489@	(Mumbai), null
+@I320@	Deshpande, Nidhi
+@I441@	null, Tara
+@I107@	Rohidekar, Gururaj
+@I216@	Sarnobat, Hemal
+@I337@	Sarnobat, Vijaya
+@I446@	
+@I119@	Rohidekar, Gauri
+@I204@	Sarnobat, Rucha
+@I325@	Kulkarni (Jugul), Mandakini
+@I458@	null, Vijaya
+@I228@	Sarnobat, Umesh
+@I349@	null, Kshama
+@I313@	Deshpande, null
+@I422@	null, Parmila
+@I301@	Deshpande, Aditya
+@I434@	Muthkikar, Vinod
+@I17@	Rohidekar, Raghunath Rao
+@I29@	Rohidekar, Laxman V
+@I205@	Sarnobat, Sachi
+@I326@	Sarnobat, Deepak
+@I435@	Muthkikar, Kshama
+@I108@	Rohidekar, Veena
+@I314@	Deshpande, Amit
+@I447@	null, Shobha
+@I229@	Shrikhande, Ina
+@I459@	Karanam, Sri Vidya
+@I217@	Sarnobat, Adwait
+@I338@	Sarnobat, Shashikala
+@I302@	Deshpande, Nidhi
+@I411@	Hallur, Padmalatha
+@I423@	null, Sridevi
+@I16@	Rohidekar, Hanumanth Rao
+@I28@	Simha, Tejashri
+@I129@	Taalikoti, Krishna
+@I359@	Adke, Radha (Sadalga)
+@I468@	null, Anandthirtha
+@I226@	Sarnobat, Sayee Kar
+@I347@	Sarnobat, Shruti
+@I105@	null, Viji
+@I117@	null, Manjula
+@I311@	null
+@I420@	Hallur, Kavitha
+@I432@	Dandin, Shreya
+@I214@	Sarnobat, Vitthal
+@I335@	Sarnobat, Ravi
+@I444@	null, Pandu
+@I202@	null, Shashank
+@I323@	Baxi, Neha
+@I456@	Karanam, Madhav Rao
+@I19@	Rohidekar, Vinod
+@I118@	Rohidekar, Kiran
+@I227@	Sarnobat, Rahi
+@I348@	null, Medha
+@I457@	Karanam, Gururaj Rao
+@I215@	Sarnobat, Milind
+@I336@	Sarnobat, Venkatesh
+@I469@	null
+@I106@	Rohidekar, Sridhar
+@I300@	null
+@I421@	Hallur, Gururaj
+@I203@	null, Pallavi
+@I324@	Sarnobat, Manohar
+@I433@	Dandin, Sujan
+@I312@	Deshpande, null
+@I445@	null, Tangabai
+@I18@	null, Janaki
+@I288@	Deshpande, Srikrishna ('Shama Mama')
+@I167@	null, Aasha
+@I179@	Kulkarni, Aruna
+@I143@	Mutalik, null
+@I252@	Sabde, Tara ('Babi mami' / 'Tai ajji')
+@I373@	Gosavi, Ashwini (Hattargi)
+@I482@	Sarnobat, Sarojini
+@I155@	Sarnobat, Dattatraya
+@I361@	Sarnobat, Pushpa
+@I276@	Hallur, Sudheendra
+@I397@	Ghatigar, Ramakrishna
+@I131@	null, Jagirdar
+@I264@	Kulkarni, Abhijeet
+@I385@	Deshpande, Rajeev
+@I470@	Karanam, Srivathsa
+@I13@	Rohidekar, Puneet
+@I25@	Rohidekar, Vasanti
+@I37@	Rohidekar, Bagavanth
+@I49@	Rohidekar, Nirmala
+@I289@	null, Ramaa
+@I277@	Hallur, Shilpa
+@I398@	Khatavkar, null
+@I156@	null, Mother of Balakrishna
+@I168@	null, Lata
+@I132@	null, HHBBU
+@I362@	Hampiholi, Sirish
+@I471@	Karanam, Srinidhi
+@I144@	null, Venkana
+@I350@	Desai, Rajesh
+@I483@	Sarnobat (alive 2019, Miraj, Maharashtra), Sheelu
+@I265@	Deshpande, Sakharam ('babu mama')
+@I386@	null, Rashmi
+@I120@	Rohidekar, Rupa
+@I253@	Deshpande, Ravindra
+@I374@	Sarnobat, Annapurna
+@I12@	Rohidekar, Ravindra
+@I24@	Rohidekar, Vijay
+@I36@	Rohidekar, Ramachandra
+@I48@	Rohidekar, Raghanath
+@I189@	Naik, Aditya
+@I165@	Sarnobat, Kunja
+@I274@	Bhamare, Kamlesh
+@I395@	Ghatigar, Gouri
+@I177@	Sarnobat, Anupama
+@I262@	Kulkarni, Anant
+@I383@	Kulkarni, Prashant
+@I141@	null, Anuradha
+@I298@	
+@I153@	Sarnobat, Sharad
+@I286@	Jain, Neha
+@I250@	
+@I371@	Sarnobat, Shivram
+@I480@	Sarnobat, Vilas
+@I15@	Rohidekar, Gautum
+@I27@	Simha, Vaman
+@I39@	null, Vatsala
+@I299@	Deshpande, Dilip
+@I178@	Sarnobat, Ankur
+@I154@	Sarnobat, Balakrishna
+@I263@	Kulkarni, Akshata
+@I384@	Naik, Avinash
+@I166@	
+@I251@	Deshpande, Narayan R (('pandit mama' / 'dada mama')
+@I372@	Sarnobat, Trupti
+@I130@	Adabaddi, Casant
+@I287@	Adya, Srihari
+@I142@	null, Vasu
+@I275@	Deshpande, Nanda
+@I396@	Ghatigar, Geeta
+@I360@	Sarnobat, Bhakti
+@I481@	Sarnobat, Babu
+@I14@	Rao, Snehalata
+@I26@	Simha, Meghana
+@I38@	Rohidekar, Godavari
+@I147@	Sarnobat, Ramchandra
+@I256@	Deshpande, Pranav
+@I377@	Kulkarni, Gouri (Hubli)
+@I486@	null
+@I159@	
+@I244@	null
+@I365@	Kulkarni, (Ammangi)
+@I123@	null, Chitra
+@I135@	Bengeri, Sham Sardar
+@I268@	null, Kamala
+@I389@	Deshpande, Nisha
+@I111@	null, Govinthraja
+@I450@	null, Narsamma
+@I232@	Donwad, Sushila
+@I353@	null, Shravani
+@I462@	Karanam, Archana
+@I220@	null
+@I341@	Sarnobat, Kalpana
+@I474@	
+@I33@	Rohidekar, Venkatesh
+@I45@	Rohidekar, Raghu
+@I57@	Rohidekar, Venkatesh
+@I69@	null, Shreeneethi
+@I21@	Rohidekar, Vidya
+@I136@	Gombi, Sham
+@I245@	null
+@I366@	Sarnobat, Kirti
+@I475@	null, Choti
+@I148@	Ambikha Deshpande, Sitabai
+@I354@	Sarnobat, Kedar
+@I487@	
+@I112@	Rohidekar, Satish
+@I269@	Deshpande, Pramod
+@I124@	Rohidekar, Akhil
+@I257@	Deshpande, Rajendra
+@I378@	Sarnobat, Vaishnavi
+@I100@	
+@I221@	null, Rama
+@I342@	Deshpande, Prema (Karguppi)
+@I451@	null, Shantabai
+@I330@	Sarnobat, Sriram (Appasaheb)
+@I463@	Karanam, Abhishek
+@I44@	Rohidekar, Vasant
+@I56@	Rohidekar, Anand
+@I68@	null, Pujitha
+@I20@	
+@I32@	Rohidekar, Bhimka Anand Rao
+@I169@	null, Maya
+@I278@	Pujar, Chidamber
+@I399@	
+@I266@	Deshpande, Subbakka
+@I387@	Kulkarni, Varun
+@I145@	null
+@I157@	Sarnobat, Balkrishna
+@I121@	null, Rashmi
+@I230@	Sarnobat, Rahul
+@I351@	Jinralkar, Rupesh
+@I460@	Karanam, Phani Rao
+@I133@	null, Narsimhamurthy
+@I472@	null, Anushna
+@I254@	(Geetanjali), Radhika
+@I375@	Kulkarni, Aniruddha
+@I484@	
+@I363@	Wader, Chandrashekhar
+@I11@	Rama, Laxmibai
+@I23@	Rohidekar, Veina
+@I35@	null, Rangubai
+@I47@	Rohidekar, Lallakka
+@I59@	null, Suresh
+@I158@	
+@I267@	null, Champakka
+@I388@	Deshpande, Neeta
+@I255@	Deshpande, Deepthi
+@I376@	Sarnobat, Anulekha
+@I134@	
+@I146@	null, Narayan
+@I279@	Pujar, Archit
+@I110@	Rohidekar, Venkatesh
+@I340@	Sarnobat, Meena
+@I122@	null, Ramya
+@I461@	null, Ahalya
+@I364@	Hampiholi, Shubhan
+@I473@	Sarnobat, Kamalabai ("Atya")
+@I231@	Sarnobat, Ishan
+@I352@	Sarnobat, Shivani
+@I485@	
+@I22@	Rohidekar, Vilas
+@I34@	null, Radhabai
+@I46@	Rohidekar, Puttaka
+@I58@	Rohidekar, Madhav
+@I10@	Rohidekar, Gaurav
+@I183@	Kari, Suman
+@I292@	Deshpande, Shyam ('shama mama')
+@I195@	Gathikar, Ravi
+@I280@	Hallur, Seema
+@I171@	Kulkarni, Savita
+@I77@	Rohidekar, Vibhas
+@I89@	
+@I41@	Rohidekar, Tulasakka
+@I53@	Rohidekar, null
+@I65@	null, Chakarapani B.K.
+@I196@	Gathikar, Mohit
+@I172@	Dariano, Lucia
+@I281@	Shah, Rohan
+@I184@	Sarnobat, Vandana
+@I390@	Naik, Nikhil
+@I160@	Sarnobat, Hanmanth
+@I293@	null, Maya
+@I88@	
+@I40@	Rohidekar, Krisnaji Laxman
+@I52@	Rohidekar, Srinivas
+@I64@	null, Sitabai
+@I76@	Rohidekar, Bhavana
+@I181@	Sarnobat, Purnima
+@I193@	Halliyal, Father of Arvind
+@I55@	Rohidekar, Parimala
+@I67@	null, Jeevan
+@I180@	Halliyal, Vasudhev
+@I79@	null, Ketaki
+@I31@	Kadiyali, Vasudha
+@I408@	Katti, Kris
+@I43@	Rohidekar, Ranganath
+@I194@	null, Mother of Arvind
+@I291@	Deshpande, Kiran
+@I170@	Sarnobat, Sachin
+@I182@	Deshmukh, Lalit
+@I66@	null, Madhavi
+@I78@	Rohidekar, Vandita
+@I290@	Deshpande, Keerthi
+@I30@	Rohidekar, Tarabai Venkatesh
+@I42@	Rohidekar, Chmpakka
+@I54@	Rohidekar, Manjula
+@I409@	Halliyal, Nitesh
+@I187@	Sarnobat, Shreenath
+@I296@	Deshpande, Shweta
+@I199@	Krishna, Mahesh
+@I284@	Adya, Hayavadan
+@I163@	Sarnobat, Sujatha
+@I175@	null, Sudha
+@I151@	Sarnobat, Arun
+@I272@	Deshpande, Priya
+@I393@	Ghatigar, Madhuri
+@I260@	Deshpande, Padma(?) / Nisha?
+@I381@	Kulkarni, Bharti
+@I61@	null, Sarala
+@I73@	Bengeri, Amit
+@I85@	
+@I97@	
+@I176@	Sarnobat, Aarthi
+@I285@	Adya, Chennakeshav
+@I188@	Sarnobat, Vaishnavi
+@I273@	Sholapurkar / Kalakukar?, Sanjeev
+@I394@	Ghatigar, Laxmi
+@I152@	Sarnobat, Kunda
+@I164@	Naik, Rajan
+@I297@	Deshpande, Shilpa
+@I140@	Nagsampige, Vasant
+@I261@	Deshpande, Rekha
+@I382@	Kulkarni, Chaaya
+@I370@	null, Geeta
+@I60@	null, Sulabha
+@I72@	Bengeri, Megha
+@I84@	null, Sagar
+@I96@	
+@I185@	Sarnobat, Vinayak
+@I197@	Gathikar, Tejas
+@I161@	null, Shubha
+@I270@	null, Veena
+@I391@	Naik, Nandini
+@I173@	Sarnobat, Aloke
+@I294@	Kulkarni, Meena
+@I282@	Shah, Anaya
+@I99@	
+@I51@	Rohidekar, Prema
+@I63@	null, Pushpa
+@I75@	Gombi, Sindhu
+@I87@	
+@I1@	Sarnobat, Sridhar
+@I198@	null, Bhumika
+@I295@	Deshpande, null
+@I174@	Sarnobat, Anjali
+@I186@	
+@I150@	Sarnobat, Madhukar
+@I380@	Kulkarni, Gopalrao N
+@I162@	Sarnobat, Sunil
+@I283@	Deshpande, Mangala
+@I271@	Deshpande, Preeti
+@I392@	Ghatigar, Srinivas B
+@I50@	Rohidekar, Jayaraj
+@I62@	null, Jyothi
+@I74@	Gombi, Soudamini
+@I86@	
+@I98@	
+
+(477 rows)
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+TODO: why are the latest generation missing?
+Ancestors 
+Ancestors /Balkrishna Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Anjali Sarnobat  Sarnobat, Anjali
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Anjali Sarnobat  Sarnobat, Anjali/Nitesh Halliyal
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Aarthi Sarnobat  Sarnobat, Aarthi
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Aarthi Sarnobat  Sarnobat, Aarthi/Mohit Gathikar
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Aarthi Sarnobat  Sarnobat, Aarthi/Tejas Gathikar
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Anupama Sarnobat  Sarnobat, Anupama
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Madhukar Sarnobat  null, Sudha/Anupama Sarnobat  Sarnobat, Anupama/Bhumika 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Ankur Sarnobat  null, Pallavi
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Ankur Sarnobat  null, Pallavi/Rucha Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Ankur Sarnobat  null, Pallavi/Sachi Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Purnima Sarnobat  Sarnobat, Purnima
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Purnima Sarnobat  Sarnobat, Purnima/Megh Deshmukh
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Arun Sarnobat  Kulkarni, Aruna/Purnima Sarnobat  Sarnobat, Purnima/Sawani Deshmukh
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Uday Sarnobat  Kulkarni, Savita
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Uday Sarnobat  Kulkarni, Savita/Sachin Sarnobat  Dariano, Lucia
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Uday Sarnobat  Kulkarni, Savita/Aloke Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sharad Sarnobat  Kari, Suman
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sharad Sarnobat  Kari, Suman/Vandana Sarnobat  Sarnobat, Vandana
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sharad Sarnobat  Kari, Suman/Vandana Sarnobat  Sarnobat, Vandana/Shreya 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sharad Sarnobat  Kari, Suman/Vandana Sarnobat  Sarnobat, Vandana/Shashank 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sharad Sarnobat  Kari, Suman/Vinayak Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sudhir Sarnobat  Rohidekar, Meenakshi
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sudhir Sarnobat  Rohidekar, Meenakshi/Sridhar Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sudhir Sarnobat  Rohidekar, Meenakshi/Prakash Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Sudhir Sarnobat  Rohidekar, Meenakshi/Priya Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Ramchandra Sarnobat  Ambikha Deshpande, Sitabai/Kunda Sarnobat  Sarnobat, Kunda
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sarojini Sarnobat  Sarnobat, Sarojini
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sarojini Sarnobat  Sarnobat, Sarojini/
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sarojini Sarnobat  Sarnobat, Sarojini/(Mumbai)
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sarojini Sarnobat  Sarnobat, Sarojini/(Mumbai)
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Vijay Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Vilas Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Babu Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sheelu Sarnobat (alive 2019, Miraj, Maharashtra)  Sarnobat (alive 2019, Miraj, Maharashtra), Sheelu
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sheelu Sarnobat (alive 2019, Miraj, Maharashtra)  Sarnobat (alive 2019, Miraj, Maharashtra), Sheelu/
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Balakrishna Sarnobat  null/Sheelu Sarnobat (alive 2019, Miraj, Maharashtra)  Sarnobat (alive 2019, Miraj, Maharashtra), Sheelu/
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kamalabai ("Atya") Sarnobat  Sarnobat, Kamalabai ("Atya")
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kamalabai ("Atya") Sarnobat  Sarnobat, Kamalabai ("Atya")/Choti 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kamalabai ("Atya") Sarnobat  Sarnobat, Kamalabai ("Atya")/Chabi 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kamalabai ("Atya") Sarnobat  Sarnobat, Kamalabai ("Atya")/Shalu 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kamalabai ("Atya") Sarnobat  Sarnobat, Kamalabai ("Atya")/Shamu Kulkarni
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sunil Sarnobat  
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sunil Sarnobat  /Shreenath Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sunil Sarnobat  /Vaishnavi Sarnobat
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sujatha Sarnobat  Sarnobat, Sujatha
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sujatha Sarnobat  Sarnobat, Sujatha/Aditya Naik  null, Gayatri
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Hanmanth Sarnobat  null, Shubha/Sujatha Sarnobat  Sarnobat, Sujatha/Vikram Naik
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kunja Sarnobat  Sarnobat, Kunja
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kunja Sarnobat  Sarnobat, Kunja/Aasha 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kunja Sarnobat  Sarnobat, Kunja/Lata 
+Ancestors /Balkrishna Sarnobat/Dattatraya Sarnobat  null, Mother of Balakrishna  /Kunja Sarnobat  Sarnobat, Kunja/Maya 
+Ancestors /Sadashiv Sarnobat  null
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null/Vitthal Sarnobat  null
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null/Vitthal Sarnobat  null/Milind Sarnobat  null
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null/Vitthal Sarnobat  null/Milind Sarnobat  null/Hemal Sarnobat
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null/Vitthal Sarnobat  null/Milind Sarnobat  null/Adwait Sarnobat
+Ancestors /Sadashiv Sarnobat  null/Neeelkanthand Sarnobat  null/Vishnu Sarnobat  null/Vitthal Sarnobat  null/Milind Sarnobat  null/Anuja Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Ramesh Sarnobat  Dabeer, Nutan
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Ramesh Sarnobat  Dabeer, Nutan/Sayee Kar Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Ramesh Sarnobat  Dabeer, Nutan/Rahi Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Umesh Sarnobat  Shrikhande, Ina
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Umesh Sarnobat  Shrikhande, Ina/Rahul Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Srinivas (Bapusaheb) Sarnobat  Kulkarni, Padmavati/Umesh Sarnobat  Shrikhande, Ina/Ishan Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Manohar Sarnobat  Kulkarni (Jugul), Mandakini
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Manohar Sarnobat  Kulkarni (Jugul), Mandakini/Deepak Sarnobat  null
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Manohar Sarnobat  Kulkarni (Jugul), Mandakini/Nithin Sarnobat  null
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Manohar Sarnobat  Kulkarni (Jugul), Mandakini/Meena Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Manohar Sarnobat  Kulkarni (Jugul), Mandakini/Kalpana Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Sriram (Appasaheb) Sarnobat  Deshpande, Prema (Karguppi)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Vithal Sarnobat  null, Medha
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Vithal Sarnobat  null, Medha/Shivani Sarnobat  Sarnobat, Shivani
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Damodar Sarnobat  null, Kshama
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Damodar Sarnobat  null, Kshama/Kedar Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Anjali Sarnobat  Sarnobat, Anjali
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Anjali Sarnobat  Sarnobat, Anjali/Kaustub Desai  null, Yashraj
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Shruti Sarnobat  Sarnobat, Shruti
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Konher (Tatyasaheb) Sarnobat  Kulkarni, Ujwala (Tippurli)/Shruti Sarnobat  Sarnobat, Shruti/Shreyas Jinralkar  null, Aarya
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shrikrishna Sarnobat  Adke, Radha (Sadalga)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shrikrishna Sarnobat  Adke, Radha (Sadalga)/Bhakti Sarnobat  Sarnobat, Bhakti
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shrikrishna Sarnobat  Adke, Radha (Sadalga)/Bhakti Sarnobat  Sarnobat, Bhakti/Shubhan Hampiholi
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shrikrishna Sarnobat  Adke, Radha (Sadalga)/Pushpa Sarnobat  Sarnobat, Pushpa
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Bhagwant Sarnobat  Kulkarni, (Ammangi)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Bhagwant Sarnobat  Kulkarni, (Ammangi)/Kirti Sarnobat  Sarnobat, Kirti
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Bhagwant Sarnobat  Kulkarni, (Ammangi)/Sudhavshu Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Gajanan (Pandit) Sarnobat  Kanago, Shilpa  null, Geeta
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Gajanan (Pandit) Sarnobat  Kanago, Shilpa  null, Geeta/Shivram Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Gajanan (Pandit) Sarnobat  Kanago, Shilpa  null, Geeta/Trupti Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Ravi Sarnobat  Gosavi, Ashwini (Hattargi)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Ravi Sarnobat  Gosavi, Ashwini (Hattargi)/Annapurna Sarnobat  Sarnobat, Annapurna
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Ravi Sarnobat  Gosavi, Ashwini (Hattargi)/Anulekha Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Venkatesh Sarnobat  Kulkarni, Gouri (Hubli)
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Venkatesh Sarnobat  Kulkarni, Gouri (Hubli)/Vaishnavi Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Venkatesh Sarnobat  Kulkarni, Gouri (Hubli)/Sankalp Sarnobat
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Bharti Kulkarni  Kulkarni, Bharti
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Bharti Kulkarni  Kulkarni, Bharti/Nikhil Naik
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Bharti Kulkarni  Kulkarni, Bharti/Nandini Naik
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Chaaya Kulkarni  Kulkarni, Chaaya
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Chaaya Kulkarni  Kulkarni, Chaaya/Neeta Deshpande
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Chaaya Kulkarni  Kulkarni, Chaaya/Nisha Deshpande
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Prashant Kulkarni  null, Rashmi
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Vijaya Sarnobat  Sarnobat, Vijaya/Prashant Kulkarni  null, Rashmi/Varun Kulkarni
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Madhuri Ghatigar  Ghatigar, Madhuri
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Madhuri Ghatigar  Ghatigar, Madhuri/Khatavkar
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Laxmi Ghatigar  Ghatigar, Laxmi
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Laxmi Ghatigar  Ghatigar, Laxmi/
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Gouri Ghatigar  Ghatigar, Gouri
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Gouri Ghatigar  Ghatigar, Gouri/Gajbar
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Geeta Ghatigar  Ghatigar, Geeta
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Shashikala Sarnobat  Sarnobat, Shashikala/Ramakrishna Ghatigar
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Leela Sarnobat  Sarnobat, Leela
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Leela Sarnobat  Sarnobat, Leela/Rajat Katti  null, Yamuna
+Ancestors /Damodar Sripad Sarnobat  null  null, Rama  Donwad, Sushila/Leela Sarnobat  Sarnobat, Leela/Rajat Katti  null, Yamuna/Kris Katti
 
