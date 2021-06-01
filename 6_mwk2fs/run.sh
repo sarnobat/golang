@@ -1,4 +1,4 @@
-cat tree_rohidekar.mwk | go run main.go
+cat tree_rohidekar.mwk | go run main.go | tee tree_rohidekar.fs.txt  |  xargs --delimiter '\n' --max-args=1 -I% echo  'mkdir /tmp/"%"' | tee tree_rohidekar.fs.sh
 
 # Native binary
 env GOOS=linux GOARCH=amd64 go build main.go

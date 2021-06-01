@@ -37,12 +37,9 @@ func main() {
 		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
 
-//		fmt.Println()
-
 		if len(elem) == 0 {
 			continue
 		}
-		fmt.Println(len(elem[1]))
 		
 		pathSegments[len(elem[1])] = elem[2];
 		
@@ -51,5 +48,6 @@ func main() {
 			fmt.Print("/")
 		}
 		fmt.Print(elem[2])
+		fmt.Println()
 	}
 }
