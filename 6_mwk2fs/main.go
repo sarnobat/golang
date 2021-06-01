@@ -22,6 +22,7 @@ func main() {
 	}
 
 	in := bufio.NewReader(os.Stdin)
+	pathSegments := make([]string, 9)
 
 	for {
 		s, err := in.ReadString('\n')
@@ -32,14 +33,22 @@ func main() {
 			break
 		}
 
-		exp := "^(" + optDelimiter + "*)(.*)"
+		exp := "^(" + optDelimiter + "*)\\s*(.*)"
 		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
 
+//		fmt.Println()
+
+		if len(elem) == 0 {
+			continue
+		}
 		fmt.Println(len(elem[1]))
 		
+		pathSegments[len(elem[1])] = elem[2];
+		
 		for i := 0; i < len(elem[1]); i++ {
-			fmt.Print("-")
+			fmt.Print(pathSegments[i])
+			fmt.Print("/")
 		}
 		fmt.Print(elem[2])
 	}
