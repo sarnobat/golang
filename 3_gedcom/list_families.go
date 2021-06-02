@@ -52,22 +52,41 @@ func main() {
 			fmt.Printf("Found Root\n")
 		}
 		
-		individualFamilyMap[family.Husband().Individual().String()] = *family
+//		individualFamilyMap[family.Husband().Individual().String()] = *family
+//		individualFamilyMap[family.Wife().Individual().String()] = *family
+		individualFamilyMap[family.Husband().Individual().UniqueIdentifiers().Strings()[0]] = *family
+		individualFamilyMap[family.Wife().Individual().UniqueIdentifiers().Strings()[0]] = *family
+		fmt.Println("[DEBUG] " + family.Husband().Individual().String() + " :: " + family.String())
+		fmt.Println("[DEBUG] " + family.Wife().Individual().String() + " :: " + family.String())
 	}
 	
 	if (&root == nil) {
 		panic("")
 	}
-	
+	fmt.Printf("\n")
 	append(root, *optPadding, 1, individualFamilyMap)	
 	
-	printIndividual(rootIndividual)
+	printIndividual(rootIndividual, *optPadding, 1, individualFamilyMap)
 }
 
-func printIndividual(rootIndividual gedcom.IndividualNode) {
+func printIndividual(rootIndividual gedcom.IndividualNode, indentation string, level int, individualFamilyMap map[string]gedcom.FamilyNode) {
 
-	fmt.Printf("%s\n", rootIndividual.String())
 
+
+	padding := strings.Repeat(indentation, level)
+			
+	fmt.Printf("%s %s\n", padding, rootIndividual.String())
+	
+	familyNode, found := individualFamilyMap[rootIndividual.UniqueIdentifiers().Strings()[0]]
+	if (found) {
+
+
+		if (&familyNode != nil) {
+			for _, child := range familyNode.Children() {
+				printIndividual(*child.Individual(),indentation, level + 1, individualFamilyMap)
+			}
+		}	
+	}
 }
 
 func append(familyNode gedcom.FamilyNode, indentation string, level int, individualFamilyMap map[string]gedcom.FamilyNode) {
