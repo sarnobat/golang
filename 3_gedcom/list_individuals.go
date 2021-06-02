@@ -44,7 +44,6 @@ func main() {
 	  fmt.Println(individual)
 	}
 
-
 /*
 	in := bufio.NewReader(os.Stdin)
 	for {
