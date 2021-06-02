@@ -73,6 +73,7 @@ func printIndividual(rootIndividual gedcom.IndividualNode) {
 func append(familyNode gedcom.FamilyNode, indentation string, level int, individualFamilyMap map[string]gedcom.FamilyNode) {
 
 	if (&familyNode != nil) {
+	
 		padding := strings.Repeat(indentation, level)
 		for _, child := range familyNode.Children() {
 
