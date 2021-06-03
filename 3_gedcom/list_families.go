@@ -77,7 +77,7 @@ func printIndividual(rootIndividual gedcom.IndividualNode, indentation string, l
 	if (found) {
 
 		// TODO: print the blood relative first.
-		fmt.Printf("%s %s\n", padding, familyNode.String())
+		fmt.Printf("%s %s\n", padding, rootIndividual.String())
 
 		if (&familyNode != nil) {		
 			for _, child := range familyNode.Children() {

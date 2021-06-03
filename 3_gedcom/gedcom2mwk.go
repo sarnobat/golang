@@ -71,17 +71,15 @@ func main() {
 
 func printIndividual(rootIndividual gedcom.IndividualNode, indentation string, level int, individualFamilyMap map[string]gedcom.FamilyNode) {
 
-
-
 	padding := strings.Repeat(indentation, level)
-			
-
+	fmt.Printf("%s %s", padding, rootIndividual.String())
 	
 	familyNode, found := individualFamilyMap[rootIndividual.UniqueIdentifiers().Strings()[0]]
 	if (found) {
-
-		// TODO: print the blood relative first.
-		fmt.Printf("%s %s\n", padding, familyNode.String())
+		// TODO: iterate over all spouses
+		spouse := *rootIndividual.Spouses()[0]
+		fmt.Printf("  (-- %s)", spouse.Name().String())		
+		fmt.Printf("\n")
 
 		if (&familyNode != nil) {		
 			for _, child := range familyNode.Children() {
@@ -89,7 +87,7 @@ func printIndividual(rootIndividual gedcom.IndividualNode, indentation string, l
 			}
 		}	
 	} else {
-		fmt.Printf("%s %s\n", padding, rootIndividual.String())
+		fmt.Printf("\n")
 	}
 }
 
