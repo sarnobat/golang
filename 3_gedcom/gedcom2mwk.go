@@ -71,7 +71,11 @@ func main() {
 
 func printIndividual(rootIndividual gedcom.IndividualNode, indentation string, level int, individualFamilyMap map[string]gedcom.FamilyNode) {
 
+
+
 	padding := strings.Repeat(indentation, level)
+			
+
 	
 	familyNode, found := individualFamilyMap[rootIndividual.UniqueIdentifiers().Strings()[0]]
 	if (found) {

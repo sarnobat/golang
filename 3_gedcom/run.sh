@@ -8,10 +8,10 @@ gedcom --name Sridhar --file rohidekar.ged hi
 
 cat rohidekar.ged | gedcom_indent
 
-env GOOS=linux GOARCH=amd64 go build list_families.go
-mv list_families list_families.linux
+env GOOS=linux GOARCH=amd64 go build gedcom2mwk.go
+mv gedcom2mwk gedcom2mwk.linux
 
-env GOOS=darwin GOARCH=amd64 go build list_families.go
-cp list_families list_families.osx
+env GOOS=darwin GOARCH=amd64 go build gedcom2mwk.go
+cp gedcom2mwk gedcom2mwk.osx
 
-cat rohidekar.ged | list_families
+cat rohidekar.ged | gedcom2mwk
