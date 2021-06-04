@@ -1,0 +1,935 @@
+File:	/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged
+Name:	Prakash
+positional args:  []
+individual: Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)
+individual: Sumitra/Geetabai Dani Dani/ (d. 16 Mar 2000)
+individual: Vinod Rohidekar (b. 19 Apr 57)
+individual: Vidya Rohidekar (b. 28 Sep 10)
+individual: Vilas Rohidekar (b. 2 Feb 1961)
+individual: Veena Rohidekar (b. 4 May 1964)
+individual: Vijay Rohidekar (b. 2 Feb 1966)
+individual: Vasanthi Rohidekar (b. 15 Feb 1970)
+individual: Vasudha Kadiyali
+individual: Vibhas Rohidekar (b. 1985)
+individual: Vandita Rohidekar (b. 1992)
+individual: Vaman Simha (b. 28 Sep 1956)
+individual: Meghana Simha (b. 14 Aug 1984)
+individual: Tejashree Simha (b. 1 Mar 1989)
+individual: Usha S. G (b. 20 Aug 1968)
+individual: Jayaprakash Veena Jayaprakash (b. 2 Nov 19)
+individual: Anuradha Kulkarni
+individual: Poorvi Rohidekar (b. 21 Oct 1998)
+individual: Varsha Rohidekar (b. 6 Jul 2003)
+individual: Vasudevan
+individual: Vallabh Vasudevan
+individual: Vaibhav Vasudevan
+individual: Ketaki Jayaprakash (b. 1997)
+individual: Laxman Rao Rohidekar (b. 1847, d. 1934)
+individual: Sitabai
+individual: Venkat Rao Rohidekar (b. 1825)
+individual: Tarabai (b. 1828, d. 1926)
+individual: Anand Rao Rohidekar (d. 1895)
+individual: Bhimka Rao Rohidekar (d. 1920)
+individual: Venkawwa Rohidekar
+individual: Venkatesh Rohidekar (b. 1889, d. 1906)
+individual: Venkubai Mirji (b. 1905)
+individual: Rangubai Padki (b. 1894)
+individual: Raghunath Rao Rohidekar (b. 1893, d. 1949)
+individual: Janaki Kodagli (b. 1899, d. 1955)
+individual: Krishnaji Laxman Rohidekar (b. 1899, d. 1964)
+individual: Venkubai (b. 1905, d. 1945)
+individual: Ramachandra Rao Rohidekar (b. 1912, d. 1984)
+individual: Shamaji Rao Rohidekar (b. 15 Sep 1915)
+individual: Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)
+individual: Srinivas Rohidekar (b. 1923, d. 1930)
+individual: Godavari Rohidekar (b. 1925, d. 1980)
+individual: Vatsala Rohidekar (b. 1928, d. 1953)
+individual: Sitabai Anikhindi (d. 1987)
+individual: Laxmibai Rama (d. 1983)
+individual: Ravindra Rohidekar (b. 1947, d. 2000)
+individual: Meenakshi Rohidekar (b. 1950)
+individual: Deepak Rohidekar (b. 1964)
+individual: Anupama
+individual: Snehalata Rao
+individual: Gautham Rohidekar (b. 1975)
+individual: Puneet Rohidekar (b. 1981)
+individual: Gaurav Rohidekar
+individual: Renubai
+individual: Krishna/Shantabai Talikoti Talikoti/ (d. 1995)
+individual: Manjula Rohidekar
+individual: Parimala Rohidekar
+individual: Sham Gombi
+individual: Anand Rohidekar
+individual: Venkatesh Rohidekar
+individual: Madhav Rohidekar
+individual: Vidya Rao
+individual: Bhavana Rohidekar (b. 1989)
+individual: Muralidhar Addabaddi
+individual: Suresh Addabaddi
+individual: Sulabha/Shuba Rao Addabaddi Addabaddi/
+individual: Sarala Addabaddi
+individual: Rohidekar (d. 1963)
+individual: Tulsakka Rohidekar (b. 1916)
+individual: Susheela Rohidekar (b. 1922, d. 1926)
+individual: Champakkabai Rohidekar (b. 1920, d. 1998)
+individual: Ranga Rao Rohidekar (b. 1924)
+individual: Vasant Rao Rohidekar (b. 1932)
+individual: Babu Rao Rohidekar (b. 1932)
+individual: Raghavendra (Raghu) Rohidekar (b. 1934)
+individual: Vaman Rao Mirji (d. 1965)
+individual: Narayana Rao Raghavendra Habbu (b. 1914, d. 1989)
+individual: Shankuntala Potdar
+individual: Kaveri Parvatikar
+individual: Mirji/Shantabai Shantabai/
+individual: Malati Kakmari
+individual: Radhabai
+individual: Raghavendra Jagirdar
+individual: Sudhir Sarnobat (b. 1946)
+individual: Srinivas Rohidekar
+individual: (stillborn) Rohidekar
+individual: Shamsundar Bengeri
+individual: Latha Kulkarni
+individual: Vatsala/Vijaya Kshirsagar Kshirsagar/
+individual: Surendra Muthalik
+individual: Jyothi Addabaddi
+individual: Dattatreya Pujar
+individual: Prakash Sarnobat (b. 1978)
+individual: Sridhar Sarnobat (b. 1982)
+individual: Priya Sarnobat (b. 1989)
+individual: Puttaka Rohidekar
+individual: Lallakka Rohidekar
+individual: Narsimhamurthy DP
+individual: Chakarapani Bangalore Krishnaswamny (d. 2009)
+individual: Ranganath/Gopal Rohidekar Rohidekar/
+individual: Radha
+individual: Nirmala/Asha Rohidekar Rohidekar/
+individual: Jayaraj Rohidekar
+individual: Prema Rohidekar
+individual: Ashok Sadarjoshi
+individual: Prakash Kulkarni
+individual: Pushpa
+individual: (no name)
+individual: (no name)
+individual: (no name)
+individual: (no name)
+individual: (no name)
+individual: (no name)
+individual: Usha
+individual: Jinki Prema
+individual: Ramesh R Habbu (d. 2000)
+individual: Ramesh
+individual: Sudha/'Baby' 'Baby' 'Baby'/
+individual: Vijaya / Viji Viji / Viji //
+individual: Sridhar Rohidekar
+individual: Gururaj Rohidekar
+individual: Veena Rohidekar
+individual: Anjana
+individual: Manjula Benkai
+individual: Vasant Nagsampige
+individual: Sreenivas Rohidekar
+individual: Venkatesh Rohidekar
+individual: Venkana
+individual: Rupa Rohidekar
+individual: Satish Rohidekar
+individual: Indumati Rohidekar
+individual: Krishnamurthy Rohidekar
+individual: Govindaswamy
+individual: Chitra Srinivasan
+individual: Krishnamurthy
+individual: Lakshmi
+individual: Madhavi
+individual: Jeevan Bharadhwaj DN
+individual: Pujitha Nagarajan
+individual: Shreeneedhi DN
+individual: Narayan K (b. 1980)
+individual: Tejasvi N Rao
+individual: Rajiva Rohidekar
+individual: Rahul Rohidekar
+individual: Prasanna Kulkarni
+individual: Poornima Kulkarni
+individual: Megha Bengeri
+individual: Amit Bengeri
+individual: Soudamini Gombi (b. 1984)
+individual: Sindu Gombi (b. 1991)
+individual: Yoga
+individual: Sandeep ('Peetu') Addabaddi
+individual: Sagar Addabaddi (b. 1980)
+individual: Archana Muthalik
+individual: Vandana Muthalik
+individual: Meghana Muthalik
+individual: Vishal Pujar
+individual: Anagha Pujar
+individual: (no name)
+individual: (no name)
+individual: Sameer Rohidekar
+individual: Kiran Rohidekar (b. 1990)
+individual: Gauri Rohidekar (b. 1996)
+individual: Rashmi Govind (b. 1985)
+individual: Ramya Govind (b. 1988)
+individual: Dilip Krishnamurthy (b. 1990)
+individual: Akhil Rohidekar
+individual: Nikhil Rohidekar
+individual: Gururaj Beloli
+individual: Amit Umrani
+individual: Anuraddha Rohidekar
+individual: Rohini Rohidekar
+individual: Shree Rohidekar
+individual: Sudharshan Harihar
+individual: Vaman Rao (d. 2014)
+individual: Suma Sudharshan
+individual: Rashmi
+individual: Sanvi
+individual: Amruta
+individual: Vijaya Sadarjoshi
+individual: Ajay Rohidekar
+individual: Jagdish
+individual: Varada
+individual: Durgaprasad Bilagi
+individual: Kush
+individual: (no name)
+individual: Raghavendra Rao S
+individual: Beloli
+individual: Beloli
+individual: (no name)
+individual: (no name)
+individual: Vasanthi ‘Bhagi’ Harish
+individual: K Harish
+individual: K H Anirudh
+individual: Appu
+individual: (no name)
+individual: Anil
+individual: Dr M V Mahishi
+individual: Ravindra / Anil? Anil? / Anil? // (d. 2010)
+individual: Appu
+individual: Anil (d. 2010)
+individual: Snehalata / Appu Appu / Appu //
+individual: Vinayak Desai
+individual: Gururajachav
+individual: Archana Kulkarni
+individual: Shashidar Kulkarni
+individual: Aghamya Kulkarni
+individual: Arvind MG
+individual: Pralad Rao Wai
+individual: Dr Anand Rao
+individual: Prakash
+individual: Sharad Rohidekar (b. 1993)
+individual: Ashwini Rohidekar (b. 7 Apr 1996)
+individual: Pramod Nagsampige
+individual: Pavan Nagsampige
+individual: Uday Savadatti
+individual: Giridhar Deshpande
+individual: Aishwarya Deshpande
+individual: Girish Dixit
+individual: Shashank
+individual: Nishant
+individual: Raghavendra
+individual: Vishnu
+individual: Hariprasad
+individual: Minaz Sajan
+individual: Sahir
+individual: Addabaddi
+individual: Habbu
+individual: (no name)
+individual: Habbu
+individual: Dr Rajini
+individual: Sapna Desai
+individual: Sonali Desai
+individual: Paavni
+individual: Leela
+individual: Rashmi
+individual: Vani
+individual: Koushik
+individual: Dr Prathibha
+individual: Siddhanth Rao
+individual: Rao
+individual: (no name)
+individual: (no name)
+individual: (no name)
+individual: Joshua Vallis
+individual: Jaguar Vallis
+individual: (no name)
+individual: Swaraat Bilagi
+individual: Madan
+individual: Addabaddi
+individual: Bengeri
+individual: (no name)
+individual: Suhas Harihar
+individual: Ritinder Kaur
+individual: Harihar
+individual: Rashmi
+individual: Rohidekar (b. 17 Feb 2021)
+individual: Rohidekar
+individual: Bilagi (b. 20 Feb 2021)
+individual: Mishka Sajan
+individual: Bharadhwaj DN
+individual: Bharadhwaj DN
+individual: Darshan Gogga
+individual: (no name) (b. 2 Nov 2020)
+individual: Dhruti Ramya (b. 1995)
+individual: Geeta Rohidekar
+individual: delete this
+individual: Nalini Rohidekar
+individual: Panchamukhi
+individual: Megha Panchmukhi
+individual: Arun Bellubbi
+individual: Ajay Bellubbi
+individual: Sunita
+individual: Rakshank Savadatti
+individual: Rohit Savadatti
+individual: Vineeth (b. 1982)
+Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000) ⚭ Sumitra/Geetabai Dani Dani/ (d. 16 Mar 2000)
+unique identifier: d2dbf014-f1ec-464e-b4dc-3da7300cb799
+
+[DEBUG] Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000) :: Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000) ⚭ Sumitra/Geetabai Dani Dani/ (d. 16 Mar 2000)
+[DEBUG] Sumitra/Geetabai Dani Dani/ (d. 16 Mar 2000) :: Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000) ⚭ Sumitra/Geetabai Dani Dani/ (d. 16 Mar 2000)
+Vinod Rohidekar (b. 19 Apr 57) ⚭ Vasudha Kadiyali
+unique identifier: ee41b21a-4d4e-4ade-8284-1de9ddaffd73
+
+[DEBUG] Vinod Rohidekar (b. 19 Apr 57) :: Vinod Rohidekar (b. 19 Apr 57) ⚭ Vasudha Kadiyali
+[DEBUG] Vasudha Kadiyali :: Vinod Rohidekar (b. 19 Apr 57) ⚭ Vasudha Kadiyali
+Vaman Simha (b. 28 Sep 1956) ⚭ Vidya Rohidekar (b. 28 Sep 10)
+unique identifier: c6eca5a7-fc22-465d-9241-b8f286b3a60d
+
+[DEBUG] Vaman Simha (b. 28 Sep 1956) :: Vaman Simha (b. 28 Sep 1956) ⚭ Vidya Rohidekar (b. 28 Sep 10)
+[DEBUG] Vidya Rohidekar (b. 28 Sep 10) :: Vaman Simha (b. 28 Sep 1956) ⚭ Vidya Rohidekar (b. 28 Sep 10)
+Vilas Rohidekar (b. 2 Feb 1961) ⚭ Usha S. G (b. 20 Aug 1968)
+unique identifier: 8af1ea9f-62e5-4613-85c1-3461ac9c209e
+
+[DEBUG] Vilas Rohidekar (b. 2 Feb 1961) :: Vilas Rohidekar (b. 2 Feb 1961) ⚭ Usha S. G (b. 20 Aug 1968)
+[DEBUG] Usha S. G (b. 20 Aug 1968) :: Vilas Rohidekar (b. 2 Feb 1961) ⚭ Usha S. G (b. 20 Aug 1968)
+Jayaprakash Veena Jayaprakash (b. 2 Nov 19) ⚭ Veena Rohidekar (b. 4 May 1964)
+unique identifier: b12287e7-7e60-4c45-854a-ff5aef9a1c88
+
+[DEBUG] Jayaprakash Veena Jayaprakash (b. 2 Nov 19) :: Jayaprakash Veena Jayaprakash (b. 2 Nov 19) ⚭ Veena Rohidekar (b. 4 May 1964)
+[DEBUG] Veena Rohidekar (b. 4 May 1964) :: Jayaprakash Veena Jayaprakash (b. 2 Nov 19) ⚭ Veena Rohidekar (b. 4 May 1964)
+Vijay Rohidekar (b. 2 Feb 1966) ⚭ Anuradha Kulkarni
+unique identifier: 29406981-0783-480d-9356-1ea29911adcf
+
+[DEBUG] Vijay Rohidekar (b. 2 Feb 1966) :: Vijay Rohidekar (b. 2 Feb 1966) ⚭ Anuradha Kulkarni
+[DEBUG] Anuradha Kulkarni :: Vijay Rohidekar (b. 2 Feb 1966) ⚭ Anuradha Kulkarni
+Vasudevan ⚭ Vasanthi Rohidekar (b. 15 Feb 1970)
+unique identifier: 3f9285ec-f493-4e2c-8c46-38968afa3120
+
+[DEBUG] Vasudevan :: Vasudevan ⚭ Vasanthi Rohidekar (b. 15 Feb 1970)
+[DEBUG] Vasanthi Rohidekar (b. 15 Feb 1970) :: Vasudevan ⚭ Vasanthi Rohidekar (b. 15 Feb 1970)
+Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Renubai
+unique identifier: d24b0564-1d9a-49b8-92de-9c381bf659a9
+
+[DEBUG] Laxman Rao Rohidekar (b. 1847, d. 1934) :: Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Renubai
+[DEBUG] Renubai :: Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Renubai
+Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Sitabai
+unique identifier: d24b0564-1d9a-49b8-92de-9c381bf659a9
+
+[DEBUG] Laxman Rao Rohidekar (b. 1847, d. 1934) :: Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Sitabai
+[DEBUG] Sitabai :: Laxman Rao Rohidekar (b. 1847, d. 1934) ⚭ Sitabai
+Venkat Rao Rohidekar (b. 1825) ⚭ Tarabai (b. 1828, d. 1926)
+unique identifier: 799db437-e0d2-44cc-a8f9-afda533cb5b7
+
+Found Root
+[DEBUG] Venkat Rao Rohidekar (b. 1825) :: Venkat Rao Rohidekar (b. 1825) ⚭ Tarabai (b. 1828, d. 1926)
+[DEBUG] Tarabai (b. 1828, d. 1926) :: Venkat Rao Rohidekar (b. 1825) ⚭ Tarabai (b. 1828, d. 1926)
+Venkatesh Rohidekar (b. 1889, d. 1906) ⚭ Rangubai Padki (b. 1894)
+unique identifier: 991e59fd-d5dd-48c9-a3a3-1f41b3c33b9d
+
+[DEBUG] Venkatesh Rohidekar (b. 1889, d. 1906) :: Venkatesh Rohidekar (b. 1889, d. 1906) ⚭ Rangubai Padki (b. 1894)
+[DEBUG] Rangubai Padki (b. 1894) :: Venkatesh Rohidekar (b. 1889, d. 1906) ⚭ Rangubai Padki (b. 1894)
+Raghunath Rao Rohidekar (b. 1893, d. 1949) ⚭ Janaki Kodagli (b. 1899, d. 1955)
+unique identifier: cbe75ff9-0c89-49dc-9617-3b55a4672530
+
+[DEBUG] Raghunath Rao Rohidekar (b. 1893, d. 1949) :: Raghunath Rao Rohidekar (b. 1893, d. 1949) ⚭ Janaki Kodagli (b. 1899, d. 1955)
+[DEBUG] Janaki Kodagli (b. 1899, d. 1955) :: Raghunath Rao Rohidekar (b. 1893, d. 1949) ⚭ Janaki Kodagli (b. 1899, d. 1955)
+Krishnaji Laxman Rohidekar (b. 1899, d. 1964) ⚭ Venkubai (b. 1905, d. 1945)
+unique identifier: 59f8af2e-5930-4a1b-9421-6acf5929a052
+
+[DEBUG] Krishnaji Laxman Rohidekar (b. 1899, d. 1964) :: Krishnaji Laxman Rohidekar (b. 1899, d. 1964) ⚭ Venkubai (b. 1905, d. 1945)
+[DEBUG] Venkubai (b. 1905, d. 1945) :: Krishnaji Laxman Rohidekar (b. 1899, d. 1964) ⚭ Venkubai (b. 1905, d. 1945)
+Ramachandra Rao Rohidekar (b. 1912, d. 1984) ⚭ Sitabai Anikhindi (d. 1987)
+unique identifier: 6e6d46f7-c1bb-4bf0-9630-fbafdc8dfe90
+
+[DEBUG] Ramachandra Rao Rohidekar (b. 1912, d. 1984) :: Ramachandra Rao Rohidekar (b. 1912, d. 1984) ⚭ Sitabai Anikhindi (d. 1987)
+[DEBUG] Sitabai Anikhindi (d. 1987) :: Ramachandra Rao Rohidekar (b. 1912, d. 1984) ⚭ Sitabai Anikhindi (d. 1987)
+Shamaji Rao Rohidekar (b. 15 Sep 1915) ⚭ Laxmibai Rama (d. 1983)
+unique identifier: 321b1937-339c-4151-982b-7909f8fac87b
+
+[DEBUG] Shamaji Rao Rohidekar (b. 15 Sep 1915) :: Shamaji Rao Rohidekar (b. 15 Sep 1915) ⚭ Laxmibai Rama (d. 1983)
+[DEBUG] Laxmibai Rama (d. 1983) :: Shamaji Rao Rohidekar (b. 15 Sep 1915) ⚭ Laxmibai Rama (d. 1983)
+Deepak Rohidekar (b. 1964) ⚭ Anupama
+unique identifier: bcc5dd56-3260-4507-b81e-79eee25bffc9
+
+[DEBUG] Deepak Rohidekar (b. 1964) :: Deepak Rohidekar (b. 1964) ⚭ Anupama
+[DEBUG] Anupama :: Deepak Rohidekar (b. 1964) ⚭ Anupama
+Ravindra Rohidekar (b. 1947, d. 2000) ⚭ Snehalata Rao
+unique identifier: b15e6029-b32a-4fe3-bf4c-ba4665c90dc7
+
+[DEBUG] Ravindra Rohidekar (b. 1947, d. 2000) :: Ravindra Rohidekar (b. 1947, d. 2000) ⚭ Snehalata Rao
+[DEBUG] Snehalata Rao :: Ravindra Rohidekar (b. 1947, d. 2000) ⚭ Snehalata Rao
+Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918) ⚭ Krishna/Shantabai Talikoti Talikoti/ (d. 1995)
+unique identifier: 513d45a3-dc5e-47ef-9225-d9367457a729
+
+[DEBUG] Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918) :: Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918) ⚭ Krishna/Shantabai Talikoti Talikoti/ (d. 1995)
+[DEBUG] Krishna/Shantabai Talikoti Talikoti/ (d. 1995) :: Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918) ⚭ Krishna/Shantabai Talikoti Talikoti/ (d. 1995)
+Sham Gombi ⚭ Parimala Rohidekar
+unique identifier: 7e01d76e-43b6-4b6a-89b7-4628e009617c
+
+[DEBUG] Sham Gombi :: Sham Gombi ⚭ Parimala Rohidekar
+[DEBUG] Parimala Rohidekar :: Sham Gombi ⚭ Parimala Rohidekar
+Anand Rohidekar ⚭ Vidya Rao
+unique identifier: 26dab686-0738-43e8-8868-57e7d634351c
+
+[DEBUG] Anand Rohidekar :: Anand Rohidekar ⚭ Vidya Rao
+[DEBUG] Vidya Rao :: Anand Rohidekar ⚭ Vidya Rao
+Muralidhar Addabaddi ⚭ Godavari Rohidekar (b. 1925, d. 1980)
+unique identifier: 063b0ce2-045d-486f-befe-07c7a41f3249
+
+[DEBUG] Muralidhar Addabaddi :: Muralidhar Addabaddi ⚭ Godavari Rohidekar (b. 1925, d. 1980)
+[DEBUG] Godavari Rohidekar (b. 1925, d. 1980) :: Muralidhar Addabaddi ⚭ Godavari Rohidekar (b. 1925, d. 1980)
+Vaman Rao Mirji (d. 1965) ⚭ Tulsakka Rohidekar (b. 1916)
+unique identifier: 7e4faa68-534d-401c-ad79-0b6a5c4c026e
+
+[DEBUG] Vaman Rao Mirji (d. 1965) :: Vaman Rao Mirji (d. 1965) ⚭ Tulsakka Rohidekar (b. 1916)
+[DEBUG] Tulsakka Rohidekar (b. 1916) :: Vaman Rao Mirji (d. 1965) ⚭ Tulsakka Rohidekar (b. 1916)
+Narayana Rao Raghavendra Habbu (b. 1914, d. 1989) ⚭ Champakkabai Rohidekar (b. 1920, d. 1998)
+unique identifier: fde49ce4-4c9d-448f-a4b3-8d40237eeacf
+
+[DEBUG] Narayana Rao Raghavendra Habbu (b. 1914, d. 1989) :: Narayana Rao Raghavendra Habbu (b. 1914, d. 1989) ⚭ Champakkabai Rohidekar (b. 1920, d. 1998)
+[DEBUG] Champakkabai Rohidekar (b. 1920, d. 1998) :: Narayana Rao Raghavendra Habbu (b. 1914, d. 1989) ⚭ Champakkabai Rohidekar (b. 1920, d. 1998)
+Ranga Rao Rohidekar (b. 1924) ⚭ Shankuntala Potdar
+unique identifier: 12651e36-5838-4912-872e-aec93aa03dbc
+
+[DEBUG] Ranga Rao Rohidekar (b. 1924) :: Ranga Rao Rohidekar (b. 1924) ⚭ Shankuntala Potdar
+[DEBUG] Shankuntala Potdar :: Ranga Rao Rohidekar (b. 1924) ⚭ Shankuntala Potdar
+Vasant Rao Rohidekar (b. 1932) ⚭ Kaveri Parvatikar
+unique identifier: 55b2f290-c4fc-4121-8446-2a50e23ca87c
+
+[DEBUG] Vasant Rao Rohidekar (b. 1932) :: Vasant Rao Rohidekar (b. 1932) ⚭ Kaveri Parvatikar
+[DEBUG] Kaveri Parvatikar :: Vasant Rao Rohidekar (b. 1932) ⚭ Kaveri Parvatikar
+Babu Rao Rohidekar (b. 1932) ⚭ Mirji/Shantabai Shantabai/
+unique identifier: b0dfe346-ded3-46d7-8dd9-85934616f644
+
+[DEBUG] Babu Rao Rohidekar (b. 1932) :: Babu Rao Rohidekar (b. 1932) ⚭ Mirji/Shantabai Shantabai/
+[DEBUG] Mirji/Shantabai Shantabai/ :: Babu Rao Rohidekar (b. 1932) ⚭ Mirji/Shantabai Shantabai/
+Raghavendra (Raghu) Rohidekar (b. 1934) ⚭ Malati Kakmari
+unique identifier: e8989dd6-6020-425d-b6fb-ee30469992b9
+
+[DEBUG] Raghavendra (Raghu) Rohidekar (b. 1934) :: Raghavendra (Raghu) Rohidekar (b. 1934) ⚭ Malati Kakmari
+[DEBUG] Malati Kakmari :: Raghavendra (Raghu) Rohidekar (b. 1934) ⚭ Malati Kakmari
+Bhimka Rao Rohidekar (d. 1920) ⚭ Radhabai
+unique identifier: 64133678-011e-4ca8-8a56-4eb89eb9040c
+
+[DEBUG] Bhimka Rao Rohidekar (d. 1920) :: Bhimka Rao Rohidekar (d. 1920) ⚭ Radhabai
+[DEBUG] Radhabai :: Bhimka Rao Rohidekar (d. 1920) ⚭ Radhabai
+Raghavendra Jagirdar ⚭ Vatsala Rohidekar (b. 1928, d. 1953)
+unique identifier: ab8eacd5-1825-43d5-a2e7-f986002488fe
+
+[DEBUG] Raghavendra Jagirdar :: Raghavendra Jagirdar ⚭ Vatsala Rohidekar (b. 1928, d. 1953)
+[DEBUG] Vatsala Rohidekar (b. 1928, d. 1953) :: Raghavendra Jagirdar ⚭ Vatsala Rohidekar (b. 1928, d. 1953)
+Sudhir Sarnobat (b. 1946) ⚭ Meenakshi Rohidekar (b. 1950)
+unique identifier: ac5cf235-02eb-4a25-b7bc-c8954cb0bda6
+
+[DEBUG] Sudhir Sarnobat (b. 1946) :: Sudhir Sarnobat (b. 1946) ⚭ Meenakshi Rohidekar (b. 1950)
+[DEBUG] Meenakshi Rohidekar (b. 1950) :: Sudhir Sarnobat (b. 1946) ⚭ Meenakshi Rohidekar (b. 1950)
+Shamsundar Bengeri ⚭ Manjula Rohidekar
+unique identifier: 5ed81c8f-4006-43b5-a63b-9e840cb8477c
+
+[DEBUG] Shamsundar Bengeri :: Shamsundar Bengeri ⚭ Manjula Rohidekar
+[DEBUG] Manjula Rohidekar :: Shamsundar Bengeri ⚭ Manjula Rohidekar
+Venkatesh Rohidekar ⚭ Latha Kulkarni
+unique identifier: b0f31bf7-e4b6-4c8e-8b7f-efc8b3576fa4
+
+[DEBUG] Venkatesh Rohidekar :: Venkatesh Rohidekar ⚭ Latha Kulkarni
+[DEBUG] Latha Kulkarni :: Venkatesh Rohidekar ⚭ Latha Kulkarni
+Suresh Addabaddi ⚭ Vatsala/Vijaya Kshirsagar Kshirsagar/
+unique identifier: 6496c52d-f066-4f41-99c4-24cdb3944be5
+
+[DEBUG] Suresh Addabaddi :: Suresh Addabaddi ⚭ Vatsala/Vijaya Kshirsagar Kshirsagar/
+[DEBUG] Vatsala/Vijaya Kshirsagar Kshirsagar/ :: Suresh Addabaddi ⚭ Vatsala/Vijaya Kshirsagar Kshirsagar/
+Surendra Muthalik ⚭ Sarala Addabaddi
+unique identifier: 4d1a3fee-6256-4197-95c0-6794716a3945
+
+[DEBUG] Surendra Muthalik :: Surendra Muthalik ⚭ Sarala Addabaddi
+[DEBUG] Sarala Addabaddi :: Surendra Muthalik ⚭ Sarala Addabaddi
+Dattatreya Pujar ⚭ Jyothi Addabaddi
+unique identifier: 2003377f-59ce-4d96-a0d8-acde3cc15571
+
+[DEBUG] Dattatreya Pujar :: Dattatreya Pujar ⚭ Jyothi Addabaddi
+[DEBUG] Jyothi Addabaddi :: Dattatreya Pujar ⚭ Jyothi Addabaddi
+Chakarapani Bangalore Krishnaswamny (d. 2009) ⚭ Puttaka Rohidekar
+unique identifier: 0e2c1d74-133e-45bd-9984-f8e27dfaee4f
+
+[DEBUG] Chakarapani Bangalore Krishnaswamny (d. 2009) :: Chakarapani Bangalore Krishnaswamny (d. 2009) ⚭ Puttaka Rohidekar
+[DEBUG] Puttaka Rohidekar :: Chakarapani Bangalore Krishnaswamny (d. 2009) ⚭ Puttaka Rohidekar
+Narsimhamurthy DP ⚭ Lallakka Rohidekar
+unique identifier: fd5fb7b1-7589-41ba-8e80-694b5ad73d2e
+
+[DEBUG] Narsimhamurthy DP :: Narsimhamurthy DP ⚭ Lallakka Rohidekar
+[DEBUG] Lallakka Rohidekar :: Narsimhamurthy DP ⚭ Lallakka Rohidekar
+Ranganath/Gopal Rohidekar Rohidekar/ ⚭ Radha
+unique identifier: 0e9160d8-06ab-41ac-8c6f-e49f7cf26f96
+
+[DEBUG] Ranganath/Gopal Rohidekar Rohidekar/ :: Ranganath/Gopal Rohidekar Rohidekar/ ⚭ Radha
+[DEBUG] Radha :: Ranganath/Gopal Rohidekar Rohidekar/ ⚭ Radha
+Ashok Sadarjoshi ⚭ Nirmala/Asha Rohidekar Rohidekar/
+unique identifier: eef07e27-e8c1-4c5a-a254-c92247f629db
+
+[DEBUG] Ashok Sadarjoshi :: Ashok Sadarjoshi ⚭ Nirmala/Asha Rohidekar Rohidekar/
+[DEBUG] Nirmala/Asha Rohidekar Rohidekar/ :: Ashok Sadarjoshi ⚭ Nirmala/Asha Rohidekar Rohidekar/
+Prakash Kulkarni ⚭ Prema Rohidekar
+unique identifier: 747c5db5-6fec-4da4-9990-dca3a8a27af4
+
+[DEBUG] Prakash Kulkarni :: Prakash Kulkarni ⚭ Prema Rohidekar
+[DEBUG] Prema Rohidekar :: Prakash Kulkarni ⚭ Prema Rohidekar
+(no name) ⚭ Pushpa
+unique identifier: b7e38542-f1a6-44de-8ee1-43b34e6b12fa
+
+[DEBUG] (no name) :: (no name) ⚭ Pushpa
+[DEBUG] Pushpa :: (no name) ⚭ Pushpa
+Sridhar Rohidekar ⚭ Anjana
+unique identifier: 4d0a1b7f-c5bb-4137-86cc-ae0c610b1b60
+
+[DEBUG] Sridhar Rohidekar :: Sridhar Rohidekar ⚭ Anjana
+[DEBUG] Anjana :: Sridhar Rohidekar ⚭ Anjana
+Gururaj Rohidekar ⚭ Manjula Benkai
+unique identifier: 2e9b519f-cb25-45e8-892e-2673c33f7107
+
+[DEBUG] Gururaj Rohidekar :: Gururaj Rohidekar ⚭ Manjula Benkai
+[DEBUG] Manjula Benkai :: Gururaj Rohidekar ⚭ Manjula Benkai
+Vasant Nagsampige ⚭ Veena Rohidekar
+unique identifier: 6ccafd4b-64d5-4610-8c6a-433cfcaa41fd
+
+[DEBUG] Vasant Nagsampige :: Vasant Nagsampige ⚭ Veena Rohidekar
+[DEBUG] Veena Rohidekar :: Vasant Nagsampige ⚭ Veena Rohidekar
+Venkatesh Rohidekar ⚭ Venkana
+unique identifier: 55bd570f-8aa6-4d9c-a673-2500353304d2
+
+[DEBUG] Venkatesh Rohidekar :: Venkatesh Rohidekar ⚭ Venkana
+[DEBUG] Venkana :: Venkatesh Rohidekar ⚭ Venkana
+Govindaswamy ⚭ Rupa Rohidekar
+unique identifier: 0eb253ff-0293-4dd9-a2a5-656711781732
+
+[DEBUG] Govindaswamy :: Govindaswamy ⚭ Rupa Rohidekar
+[DEBUG] Rupa Rohidekar :: Govindaswamy ⚭ Rupa Rohidekar
+Satish Rohidekar ⚭ Chitra Srinivasan
+unique identifier: 0ed3156f-8872-4c09-8fec-c45b63851389
+
+[DEBUG] Satish Rohidekar :: Satish Rohidekar ⚭ Chitra Srinivasan
+[DEBUG] Chitra Srinivasan :: Satish Rohidekar ⚭ Chitra Srinivasan
+Krishnamurthy ⚭ Indumati Rohidekar
+unique identifier: 0763d7c5-73d8-4784-a7a0-027fe780ed2c
+
+[DEBUG] Krishnamurthy :: Krishnamurthy ⚭ Indumati Rohidekar
+[DEBUG] Indumati Rohidekar :: Krishnamurthy ⚭ Indumati Rohidekar
+Krishnamurthy Rohidekar ⚭ Lakshmi
+unique identifier: 80daf538-5a3b-40aa-85fc-bc5037965dac
+
+[DEBUG] Krishnamurthy Rohidekar :: Krishnamurthy Rohidekar ⚭ Lakshmi
+[DEBUG] Lakshmi :: Krishnamurthy Rohidekar ⚭ Lakshmi
+Narayan K (b. 1980) ⚭ Madhavi
+unique identifier: 30bfd659-57f8-4a30-ad40-adc04cd4c196
+
+[DEBUG] Narayan K (b. 1980) :: Narayan K (b. 1980) ⚭ Madhavi
+[DEBUG] Madhavi :: Narayan K (b. 1980) ⚭ Madhavi
+Jeevan Bharadhwaj DN ⚭ Tejasvi N Rao
+unique identifier: 4b63054f-59c1-44fc-9ddc-e85948c5198d
+
+[DEBUG] Jeevan Bharadhwaj DN :: Jeevan Bharadhwaj DN ⚭ Tejasvi N Rao
+[DEBUG] Tejasvi N Rao :: Jeevan Bharadhwaj DN ⚭ Tejasvi N Rao
+Yoga ⚭ Soudamini Gombi (b. 1984)
+unique identifier: ef3ca2d3-971e-43fd-b484-398c3e38c0fb
+
+[DEBUG] Yoga :: Yoga ⚭ Soudamini Gombi (b. 1984)
+[DEBUG] Soudamini Gombi (b. 1984) :: Yoga ⚭ Soudamini Gombi (b. 1984)
+Gururaj Beloli ⚭ Archana Muthalik
+unique identifier: 9977ac7f-c54f-4d42-b67b-d7825d28bbc3
+
+[DEBUG] Gururaj Beloli :: Gururaj Beloli ⚭ Archana Muthalik
+[DEBUG] Archana Muthalik :: Gururaj Beloli ⚭ Archana Muthalik
+Amit Umrani ⚭ Vandana Muthalik
+unique identifier: 9bd2c3ea-7262-456d-a0ee-bd513ab31c52
+
+[DEBUG] Amit Umrani :: Amit Umrani ⚭ Vandana Muthalik
+[DEBUG] Vandana Muthalik :: Amit Umrani ⚭ Vandana Muthalik
+Vaman Rao (d. 2014) — Usha
+unique identifier: 5b00dba0-a59e-e3c3-26eb-997f70000280
+
+[DEBUG] Vaman Rao (d. 2014) :: Vaman Rao (d. 2014) — Usha
+[DEBUG] Usha :: Vaman Rao (d. 2014) — Usha
+Sudharshan Harihar — Suma Sudharshan
+unique identifier: 5b00dba0-a57a-63c2-e6eb-997f70000280
+
+[DEBUG] Sudharshan Harihar :: Sudharshan Harihar — Suma Sudharshan
+[DEBUG] Suma Sudharshan :: Sudharshan Harihar — Suma Sudharshan
+Shreeneedhi DN — Rashmi
+unique identifier: bde90e43-c6dc-4187-8f86-24f810b08921
+
+[DEBUG] Shreeneedhi DN :: Shreeneedhi DN — Rashmi
+[DEBUG] Rashmi :: Shreeneedhi DN — Rashmi
+Rajiva Rohidekar — Amruta
+unique identifier: 0fedbf33-8812-4805-a74f-da4e52037d5f
+
+[DEBUG] Rajiva Rohidekar :: Rajiva Rohidekar — Amruta
+[DEBUG] Amruta :: Rajiva Rohidekar — Amruta
+Jayaraj Rohidekar — Vijaya Sadarjoshi
+unique identifier: ed066906-bfc4-45a2-98d1-5422032e28e9
+
+[DEBUG] Jayaraj Rohidekar :: Jayaraj Rohidekar — Vijaya Sadarjoshi
+[DEBUG] Vijaya Sadarjoshi :: Jayaraj Rohidekar — Vijaya Sadarjoshi
+Jagdish — Megha Bengeri
+unique identifier: 5b00dba0-a617-43c4-46eb-997f70000280
+
+[DEBUG] Jagdish :: Jagdish — Megha Bengeri
+[DEBUG] Megha Bengeri :: Jagdish — Megha Bengeri
+Amit Bengeri — Varada
+unique identifier: d55cb6c8-5835-49a9-9169-b6be5591ec02
+
+[DEBUG] Amit Bengeri :: Amit Bengeri — Varada
+[DEBUG] Varada :: Amit Bengeri — Varada
+Durgaprasad Bilagi — Bhavana Rohidekar (b. 1989)
+unique identifier: 5b00dba0-a63c-53c4-a6eb-997f70000280
+
+[DEBUG] Durgaprasad Bilagi :: Durgaprasad Bilagi — Bhavana Rohidekar (b. 1989)
+[DEBUG] Bhavana Rohidekar (b. 1989) :: Durgaprasad Bilagi — Bhavana Rohidekar (b. 1989)
+Sagar Addabaddi (b. 1980) — (no name)
+unique identifier: cc635a07-f36b-461b-861a-72f5a7ad789c
+
+[DEBUG] Sagar Addabaddi (b. 1980) :: Sagar Addabaddi (b. 1980) — (no name)
+[DEBUG] (no name) :: Sagar Addabaddi (b. 1980) — (no name)
+Raghavendra Rao S — Sulabha/Shuba Rao Addabaddi Addabaddi/
+unique identifier: 5b00dba0-a692-43c5-26eb-997f70000280
+
+[DEBUG] Raghavendra Rao S :: Raghavendra Rao S — Sulabha/Shuba Rao Addabaddi Addabaddi/
+[DEBUG] Sulabha/Shuba Rao Addabaddi Addabaddi/ :: Raghavendra Rao S — Sulabha/Shuba Rao Addabaddi Addabaddi/
+(no name) — Anagha Pujar
+unique identifier: 5b00dba0-a6e2-73c5-96eb-997f70000280
+
+[DEBUG] (no name) :: (no name) — Anagha Pujar
+[DEBUG] Anagha Pujar :: (no name) — Anagha Pujar
+Vishal Pujar — (no name)
+unique identifier: 51088a91-022b-429c-aaf9-7d5ae0c56298
+
+[DEBUG] Vishal Pujar :: Vishal Pujar — (no name)
+[DEBUG] (no name) :: Vishal Pujar — (no name)
+K Harish — Vasanthi ‘Bhagi’ Harish
+unique identifier: 5b00dba0-a753-43c6-16eb-997f70000280
+
+[DEBUG] K Harish :: K Harish — Vasanthi ‘Bhagi’ Harish
+[DEBUG] Vasanthi ‘Bhagi’ Harish :: K Harish — Vasanthi ‘Bhagi’ Harish
+Appu — (no name)
+unique identifier: 5b00dba0-a7ae-f3c6-66eb-997f70000280
+
+[DEBUG] Appu :: Appu — (no name)
+[DEBUG] (no name) :: Appu — (no name)
+Dr M V Mahishi — Jinki Prema
+unique identifier: 5b00dba0-a805-c3c6-d6eb-997f70000280
+
+[DEBUG] Dr M V Mahishi :: Dr M V Mahishi — Jinki Prema
+[DEBUG] Jinki Prema :: Dr M V Mahishi — Jinki Prema
+Vinayak Desai — Snehalata / Appu Appu / Appu //
+unique identifier: 5b00dba0-a8a3-63c7-d6eb-997f70000280
+
+[DEBUG] Vinayak Desai :: Vinayak Desai — Snehalata / Appu Appu / Appu //
+[DEBUG] Snehalata / Appu Appu / Appu // :: Vinayak Desai — Snehalata / Appu Appu / Appu //
+Gururajachav — Sudha/'Baby' 'Baby' 'Baby'/
+unique identifier: 5b00dba0-a8b0-f3c7-f6eb-997f70000280
+
+[DEBUG] Gururajachav :: Gururajachav — Sudha/'Baby' 'Baby' 'Baby'/
+[DEBUG] Sudha/'Baby' 'Baby' 'Baby'/ :: Gururajachav — Sudha/'Baby' 'Baby' 'Baby'/
+Shashidar Kulkarni — Archana Kulkarni
+unique identifier: 5b00dba0-a8d3-83c8-46eb-997f70000280
+
+[DEBUG] Shashidar Kulkarni :: Shashidar Kulkarni — Archana Kulkarni
+[DEBUG] Archana Kulkarni :: Shashidar Kulkarni — Archana Kulkarni
+Pralad Rao Wai — Vijaya / Viji Viji / Viji //
+unique identifier: 5b00dba0-a901-93c8-b6eb-997f70000280
+
+[DEBUG] Pralad Rao Wai :: Pralad Rao Wai — Vijaya / Viji Viji / Viji //
+[DEBUG] Vijaya / Viji Viji / Viji // :: Pralad Rao Wai — Vijaya / Viji Viji / Viji //
+Uday Savadatti — Anuraddha Rohidekar
+unique identifier: 5b00dba0-a967-83c9-a6eb-997f70000280
+
+[DEBUG] Uday Savadatti :: Uday Savadatti — Anuraddha Rohidekar
+[DEBUG] Anuraddha Rohidekar :: Uday Savadatti — Anuraddha Rohidekar
+Giridhar Deshpande — Rohini Rohidekar
+unique identifier: 5b00dba0-a97a-b3c9-d6eb-997f70000280
+
+[DEBUG] Giridhar Deshpande :: Giridhar Deshpande — Rohini Rohidekar
+[DEBUG] Rohini Rohidekar :: Giridhar Deshpande — Rohini Rohidekar
+Shree Rohidekar — Girish Dixit
+unique identifier: b7708550-baa9-42a5-b69c-ca581f45b51b
+
+[DEBUG] Shree Rohidekar :: Shree Rohidekar — Girish Dixit
+[DEBUG] Girish Dixit :: Shree Rohidekar — Girish Dixit
+Raghavendra — Rashmi Govind (b. 1985)
+unique identifier: 5b00dba0-a9d5-f3ca-a6eb-997f70000280
+
+[DEBUG] Raghavendra :: Raghavendra — Rashmi Govind (b. 1985)
+[DEBUG] Rashmi Govind (b. 1985) :: Raghavendra — Rashmi Govind (b. 1985)
+Hariprasad — Ramya Govind (b. 1988)
+unique identifier: 5b00dba0-a9fb-e3ca-f6eb-997f70000280
+
+[DEBUG] Hariprasad :: Hariprasad — Ramya Govind (b. 1988)
+[DEBUG] Ramya Govind (b. 1988) :: Hariprasad — Ramya Govind (b. 1988)
+Minaz Sajan — Meghana Simha (b. 14 Aug 1984)
+unique identifier: 5b00dba0-aa19-d3cb-26eb-997f70000280
+
+[DEBUG] Minaz Sajan :: Minaz Sajan — Meghana Simha (b. 14 Aug 1984)
+[DEBUG] Meghana Simha (b. 14 Aug 1984) :: Minaz Sajan — Meghana Simha (b. 14 Aug 1984)
+Ramesh R Habbu (d. 2000) — (no name)
+unique identifier: 55b4fa52-939e-4f15-af11-3f2c06e33122
+
+[DEBUG] Ramesh R Habbu (d. 2000) :: Ramesh R Habbu (d. 2000) — (no name)
+[DEBUG] (no name) :: Ramesh R Habbu (d. 2000) — (no name)
+Ravindra / Anil? Anil? / Anil? // (d. 2010) ⚭ Dr Rajini
+unique identifier: 5b00dba0-a834-b3c7-16eb-997f70000280
+
+[DEBUG] Ravindra / Anil? Anil? / Anil? // (d. 2010) :: Ravindra / Anil? Anil? / Anil? // (d. 2010) ⚭ Dr Rajini
+[DEBUG] Dr Rajini :: Ravindra / Anil? Anil? / Anil? // (d. 2010) ⚭ Dr Rajini
+Ramesh ⚭ Leela
+unique identifier: 5fddb131-39f6-42ec-8734-96af6df8a579
+
+[DEBUG] Ramesh :: Ramesh ⚭ Leela
+[DEBUG] Leela :: Ramesh ⚭ Leela
+Dr Anand Rao ⚭ Dr Prathibha
+unique identifier: 5b00dba0-a915-23c8-e6eb-997f70000280
+
+[DEBUG] Dr Anand Rao :: Dr Anand Rao ⚭ Dr Prathibha
+[DEBUG] Dr Prathibha :: Dr Anand Rao ⚭ Dr Prathibha
+Prakash ⚭ (no name)
+unique identifier: 5b00dba0-a922-83c9-06eb-997f70000280
+
+[DEBUG] Prakash :: Prakash ⚭ (no name)
+[DEBUG] (no name) :: Prakash ⚭ (no name)
+Joshua Vallis ⚭ Priya Sarnobat (b. 1989)
+unique identifier: 5e6e897d-b9e0-2598-ffff-fb8e3a138280
+
+[DEBUG] Joshua Vallis :: Joshua Vallis ⚭ Priya Sarnobat (b. 1989)
+[DEBUG] Priya Sarnobat (b. 1989) :: Joshua Vallis ⚭ Priya Sarnobat (b. 1989)
+Vibhas Rohidekar (b. 1985) ⚭ (no name)
+unique identifier: 48cdd238-da3a-4b76-853b-6803398e5a5e
+
+[DEBUG] Vibhas Rohidekar (b. 1985) :: Vibhas Rohidekar (b. 1985) ⚭ (no name)
+[DEBUG] (no name) :: Vibhas Rohidekar (b. 1985) ⚭ (no name)
+Madan ⚭ Ashwini Rohidekar (b. 7 Apr 1996)
+unique identifier: 5e6e8edb-dc19-a6c6-6584-d8f0e0000410
+
+[DEBUG] Madan :: Madan ⚭ Ashwini Rohidekar (b. 7 Apr 1996)
+[DEBUG] Ashwini Rohidekar (b. 7 Apr 1996) :: Madan ⚭ Ashwini Rohidekar (b. 7 Apr 1996)
+Suhas Harihar ⚭ Ritinder Kaur
+unique identifier: 5e6e8f2e-8d52-86c7-0584-d8f0e0000410
+
+[DEBUG] Suhas Harihar :: Suhas Harihar ⚭ Ritinder Kaur
+[DEBUG] Ritinder Kaur :: Suhas Harihar ⚭ Ritinder Kaur
+Rahul Rohidekar ⚭ Rashmi
+unique identifier: dd177dbe-9db0-4a08-80e7-13d195681ab2
+
+[DEBUG] Rahul Rohidekar :: Rahul Rohidekar ⚭ Rashmi
+[DEBUG] Rashmi :: Rahul Rohidekar ⚭ Rashmi
+Darshan Gogga ⚭ Sindu Gombi (b. 1991)
+unique identifier: 603befec-ccff-91eb-2389-000000000000
+
+[DEBUG] Darshan Gogga :: Darshan Gogga ⚭ Sindu Gombi (b. 1991)
+[DEBUG] Sindu Gombi (b. 1991) :: Darshan Gogga ⚭ Sindu Gombi (b. 1991)
+Dilip Krishnamurthy (b. 1990) ⚭ Dhruti Ramya (b. 1995)
+unique identifier: 6f0bab2d-f3d3-488d-bedb-3c790f2734fa
+
+[DEBUG] Dilip Krishnamurthy (b. 1990) :: Dilip Krishnamurthy (b. 1990) ⚭ Dhruti Ramya (b. 1995)
+[DEBUG] Dhruti Ramya (b. 1995) :: Dilip Krishnamurthy (b. 1990) ⚭ Dhruti Ramya (b. 1995)
+Panchamukhi ⚭ Geeta Rohidekar
+unique identifier: 603bf301-ccff-91eb-2389-000000000000
+
+[DEBUG] Panchamukhi :: Panchamukhi ⚭ Geeta Rohidekar
+[DEBUG] Geeta Rohidekar :: Panchamukhi ⚭ Geeta Rohidekar
+Arun Bellubbi ⚭ Nalini Rohidekar
+unique identifier: 603bf377-ccff-91eb-2389-000000000000
+
+[DEBUG] Arun Bellubbi :: Arun Bellubbi ⚭ Nalini Rohidekar
+[DEBUG] Nalini Rohidekar :: Arun Bellubbi ⚭ Nalini Rohidekar
+Sreenivas Rohidekar ⚭ Sunita
+unique identifier: f16273d9-75e0-424e-8b24-dba10a33921c
+
+[DEBUG] Sreenivas Rohidekar :: Sreenivas Rohidekar ⚭ Sunita
+[DEBUG] Sunita :: Sreenivas Rohidekar ⚭ Sunita
+Vineeth (b. 1982) ⚭ Tejashree Simha (b. 1 Mar 1989)
+unique identifier: 603c08de-ccff-91eb-2389-000000000000
+
+[DEBUG] Vineeth (b. 1982) :: Vineeth (b. 1982) ⚭ Tejashree Simha (b. 1 Mar 1989)
+[DEBUG] Tejashree Simha (b. 1 Mar 1989) :: Vineeth (b. 1982) ⚭ Tejashree Simha (b. 1 Mar 1989)
+
+/Laxman Rao Rohidekar (b. 1847, d. 1934)
+/Anand Rao Rohidekar (d. 1895)
+/Bhimka Rao Rohidekar (d. 1920)
+/Venkawwa Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Venkatesh Rohidekar (b. 1889, d. 1906)  (-- Rangubai Padki)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Puttaka Rohidekar  (-- Chakarapani Bangalore Krishnaswamny)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Puttaka Rohidekar  (-- Chakarapani Bangalore Krishnaswamny)/Madhavi  (-- Narayan K)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Jeevan Bharadhwaj DN  (-- Tejasvi N Rao)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Jeevan Bharadhwaj DN  (-- Tejasvi N Rao)/Bharadhwaj DN
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Jeevan Bharadhwaj DN  (-- Tejasvi N Rao)/Bharadhwaj DN
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Pujitha Nagarajan
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Shreeneedhi DN  (-- Rashmi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Lallakka Rohidekar  (-- Narsimhamurthy DP)/Shreeneedhi DN  (-- Rashmi)/Sanvi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Ranganath/Gopal Rohidekar Rohidekar/  (-- Radha)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Ranganath/Gopal Rohidekar Rohidekar/  (-- Radha)/Rajiva Rohidekar  (-- Amruta)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Ranganath/Gopal Rohidekar Rohidekar/  (-- Radha)/Rajiva Rohidekar  (-- Amruta)/Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Ranganath/Gopal Rohidekar Rohidekar/  (-- Radha)/Rahul Rohidekar  (-- Rashmi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Ranganath/Gopal Rohidekar Rohidekar/  (-- Radha)/Rahul Rohidekar  (-- Rashmi)/Rohidekar (b. 17 Feb 2021)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Nirmala/Asha Rohidekar Rohidekar/  (-- Ashok Sadarjoshi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Jayaraj Rohidekar  (-- Vijaya Sadarjoshi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Jayaraj Rohidekar  (-- Vijaya Sadarjoshi)/Ajay Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Prema Rohidekar  (-- Prakash Kulkarni)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Prema Rohidekar  (-- Prakash Kulkarni)/Prasanna Kulkarni
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Ramachandra Rao Rohidekar (b. 1912, d. 1984)  (-- Sitabai Anikhindi)/Prema Rohidekar  (-- Prakash Kulkarni)/Poornima Kulkarni
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Ravindra Rohidekar (b. 1947, d. 2000)  (-- Snehalata Rao)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Ravindra Rohidekar (b. 1947, d. 2000)  (-- Snehalata Rao)/Gautham Rohidekar (b. 1975)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Ravindra Rohidekar (b. 1947, d. 2000)  (-- Snehalata Rao)/Puneet Rohidekar (b. 1981)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Meenakshi Rohidekar (b. 1950)  (-- Sudhir Sarnobat)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Meenakshi Rohidekar (b. 1950)  (-- Sudhir Sarnobat)/Prakash Sarnobat (b. 1978)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Meenakshi Rohidekar (b. 1950)  (-- Sudhir Sarnobat)/Sridhar Sarnobat (b. 1982)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Meenakshi Rohidekar (b. 1950)  (-- Sudhir Sarnobat)/Priya Sarnobat (b. 1989)  (-- Joshua Vallis)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Meenakshi Rohidekar (b. 1950)  (-- Sudhir Sarnobat)/Priya Sarnobat (b. 1989)  (-- Joshua Vallis)/Jaguar Vallis
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Deepak Rohidekar (b. 1964)  (-- Anupama)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Deepak Rohidekar (b. 1964)  (-- Anupama)/Gaurav Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/Srinivas Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Shamaji Rao Rohidekar (b. 15 Sep 1915)  (-- Laxmibai Rama)/(stillborn) Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Manjula Rohidekar  (-- Shamsundar Bengeri)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Manjula Rohidekar  (-- Shamsundar Bengeri)/Megha Bengeri  (-- Jagdish)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Manjula Rohidekar  (-- Shamsundar Bengeri)/Megha Bengeri  (-- Jagdish)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Manjula Rohidekar  (-- Shamsundar Bengeri)/Amit Bengeri  (-- Varada)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Manjula Rohidekar  (-- Shamsundar Bengeri)/Amit Bengeri  (-- Varada)/Bengeri
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Parimala Rohidekar  (-- Sham Gombi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Parimala Rohidekar  (-- Sham Gombi)/Soudamini Gombi (b. 1984)  (-- Yoga)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Parimala Rohidekar  (-- Sham Gombi)/Soudamini Gombi (b. 1984)  (-- Yoga)/Kush
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Parimala Rohidekar  (-- Sham Gombi)/Sindu Gombi (b. 1991)  (-- Darshan Gogga)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Anand Rohidekar  (-- Vidya Rao)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Anand Rohidekar  (-- Vidya Rao)/Bhavana Rohidekar (b. 1989)  (-- Durgaprasad Bilagi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Anand Rohidekar  (-- Vidya Rao)/Bhavana Rohidekar (b. 1989)  (-- Durgaprasad Bilagi)/Swaraat Bilagi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Anand Rohidekar  (-- Vidya Rao)/Bhavana Rohidekar (b. 1989)  (-- Durgaprasad Bilagi)/Bilagi (b. 20 Feb 2021)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Venkatesh Rohidekar  (-- Latha Kulkarni)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Bhagavanth Rao Rohidekar (b. Bet. 5 and 1918)  (-- Krishna/Shantabai Talikoti Talikoti/)/Madhav Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vidya Rohidekar (b. 28 Sep 10)  (-- Vaman Simha)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vidya Rohidekar (b. 28 Sep 10)  (-- Vaman Simha)/Meghana Simha (b. 14 Aug 1984)  (-- Minaz Sajan)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vidya Rohidekar (b. 28 Sep 10)  (-- Vaman Simha)/Meghana Simha (b. 14 Aug 1984)  (-- Minaz Sajan)/Sahir
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vidya Rohidekar (b. 28 Sep 10)  (-- Vaman Simha)/Meghana Simha (b. 14 Aug 1984)  (-- Minaz Sajan)/Mishka Sajan
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vidya Rohidekar (b. 28 Sep 10)  (-- Vaman Simha)/Tejashree Simha (b. 1 Mar 1989)  (-- Vineeth)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vinod Rohidekar (b. 19 Apr 57)  (-- Vasudha Kadiyali)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vinod Rohidekar (b. 19 Apr 57)  (-- Vasudha Kadiyali)/Vibhas Rohidekar (b. 1985)  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vinod Rohidekar (b. 19 Apr 57)  (-- Vasudha Kadiyali)/Vandita Rohidekar (b. 1992)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vilas Rohidekar (b. 2 Feb 1961)  (-- Usha S. G)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Veena Rohidekar (b. 4 May 1964)  (-- Jayaprakash Veena Jayaprakash)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Veena Rohidekar (b. 4 May 1964)  (-- Jayaprakash Veena Jayaprakash)/Ketaki Jayaprakash (b. 1997)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vijay Rohidekar (b. 2 Feb 1966)  (-- Anuradha Kulkarni)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vijay Rohidekar (b. 2 Feb 1966)  (-- Anuradha Kulkarni)/Poorvi Rohidekar (b. 21 Oct 1998)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vijay Rohidekar (b. 2 Feb 1966)  (-- Anuradha Kulkarni)/Varsha Rohidekar (b. 6 Jul 2003)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vasanthi Rohidekar (b. 15 Feb 1970)  (-- Vasudevan)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vasanthi Rohidekar (b. 15 Feb 1970)  (-- Vasudevan)/Vallabh Vasudevan
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Vasanthi Rohidekar (b. 15 Feb 1970)  (-- Vasudevan)/Vaibhav Vasudevan
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Hanumanth Rao Rohidekar (b. 21 Aug 1921, d. 9 Feb 2000)  (-- Sumitra/Geetabai Dani Dani/)/Rohidekar (d. 1963)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Srinivas Rohidekar (b. 1923, d. 1930)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Suresh Addabaddi  (-- Vatsala/Vijaya Kshirsagar Kshirsagar/)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Suresh Addabaddi  (-- Vatsala/Vijaya Kshirsagar Kshirsagar/)/Sandeep ('Peetu') Addabaddi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Suresh Addabaddi  (-- Vatsala/Vijaya Kshirsagar Kshirsagar/)/Sagar Addabaddi (b. 1980)  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Suresh Addabaddi  (-- Vatsala/Vijaya Kshirsagar Kshirsagar/)/Sagar Addabaddi (b. 1980)  (-- )/Addabaddi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Suresh Addabaddi  (-- Vatsala/Vijaya Kshirsagar Kshirsagar/)/Sagar Addabaddi (b. 1980)  (-- )/Addabaddi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sulabha/Shuba Rao Addabaddi Addabaddi/  (-- Raghavendra Rao S)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)/Archana Muthalik  (-- Gururaj Beloli)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)/Archana Muthalik  (-- Gururaj Beloli)/Beloli
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)/Archana Muthalik  (-- Gururaj Beloli)/Beloli
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)/Vandana Muthalik  (-- Amit Umrani)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Sarala Addabaddi  (-- Surendra Muthalik)/Meghana Muthalik
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Jyothi Addabaddi  (-- Dattatreya Pujar)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Jyothi Addabaddi  (-- Dattatreya Pujar)/Vishal Pujar  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Godavari Rohidekar (b. 1925, d. 1980)  (-- Muralidhar Addabaddi)/Jyothi Addabaddi  (-- Dattatreya Pujar)/Anagha Pujar  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Vatsala Rohidekar (b. 1928, d. 1953)  (-- Raghavendra Jagirdar)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Vatsala Rohidekar (b. 1928, d. 1953)  (-- Raghavendra Jagirdar)/Pushpa  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Vatsala Rohidekar (b. 1928, d. 1953)  (-- Raghavendra Jagirdar)/Pushpa  (-- )/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Raghunath Rao Rohidekar (b. 1893, d. 1949)  (-- Janaki Kodagli)/Vatsala Rohidekar (b. 1928, d. 1953)  (-- Raghavendra Jagirdar)/Pushpa  (-- )/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Tulsakka Rohidekar (b. 1916)  (-- Vaman Rao Mirji)/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)/Sudharshan Harihar  (-- Suma Sudharshan)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)/Sudharshan Harihar  (-- Suma Sudharshan)/Suhas Harihar  (-- Ritinder Kaur)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)/Sudharshan Harihar  (-- Suma Sudharshan)/Suhas Harihar  (-- Ritinder Kaur)/Harihar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)/Vasanthi ‘Bhagi’ Harish  (-- K Harish)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Usha  (-- Vaman Rao)/Vasanthi ‘Bhagi’ Harish  (-- K Harish)/K H Anirudh
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)/Ravindra / Anil? Anil? / Anil? // (d. 2010)  (-- Dr Rajini)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)/Ravindra / Anil? Anil? / Anil? // (d. 2010)  (-- Dr Rajini)/Paavni
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)/Snehalata / Appu Appu / Appu //  (-- Vinayak Desai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)/Snehalata / Appu Appu / Appu //  (-- Vinayak Desai)/Sapna Desai
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Jinki Prema  (-- Dr M V Mahishi)/Snehalata / Appu Appu / Appu //  (-- Vinayak Desai)/Sonali Desai
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh R Habbu (d. 2000)  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh R Habbu (d. 2000)  (-- )/Habbu
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh R Habbu (d. 2000)  (-- )/Habbu
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh  (-- Leela)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh  (-- Leela)/Rashmi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh  (-- Leela)/Vani
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Ramesh  (-- Leela)/Koushik
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Sudha/'Baby' 'Baby' 'Baby'/  (-- Gururajachav)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Sudha/'Baby' 'Baby' 'Baby'/  (-- Gururajachav)/Archana Kulkarni  (-- Shashidar Kulkarni)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Sudha/'Baby' 'Baby' 'Baby'/  (-- Gururajachav)/Archana Kulkarni  (-- Shashidar Kulkarni)/Aghamya Kulkarni
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Sudha/'Baby' 'Baby' 'Baby'/  (-- Gururajachav)/Arvind MG
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Dr Anand Rao  (-- Dr Prathibha)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Dr Anand Rao  (-- Dr Prathibha)/Siddhanth Rao
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Dr Anand Rao  (-- Dr Prathibha)/Rao
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Prakash  (-- )
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Prakash  (-- )/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Champakkabai Rohidekar (b. 1920, d. 1998)  (-- Narayana Rao Raghavendra Habbu)/Vijaya / Viji Viji / Viji //  (-- Pralad Rao Wai)/Prakash  (-- )/(no name)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Susheela Rohidekar (b. 1922, d. 1926)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Sridhar Rohidekar  (-- Anjana)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Sridhar Rohidekar  (-- Anjana)/Sameer Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Gururaj Rohidekar  (-- Manjula Benkai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Gururaj Rohidekar  (-- Manjula Benkai)/Kiran Rohidekar (b. 1990)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Gururaj Rohidekar  (-- Manjula Benkai)/Gauri Rohidekar (b. 1996)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Veena Rohidekar  (-- Vasant Nagsampige)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Veena Rohidekar  (-- Vasant Nagsampige)/Pramod Nagsampige
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Ranga Rao Rohidekar (b. 1924)  (-- Shankuntala Potdar)/Veena Rohidekar  (-- Vasant Nagsampige)/Pavan Nagsampige
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Sreenivas Rohidekar  (-- Sunita)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Venkatesh Rohidekar  (-- Venkana)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Venkatesh Rohidekar  (-- Venkana)/Sharad Rohidekar (b. 1993)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Venkatesh Rohidekar  (-- Venkana)/Ashwini Rohidekar (b. 7 Apr 1996)  (-- Madan)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Geeta Rohidekar  (-- Panchamukhi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Geeta Rohidekar  (-- Panchamukhi)/Megha Panchmukhi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Nalini Rohidekar  (-- Arun Bellubbi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Vasant Rao Rohidekar (b. 1932)  (-- Kaveri Parvatikar)/Nalini Rohidekar  (-- Arun Bellubbi)/Ajay Bellubbi
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Anuraddha Rohidekar  (-- Uday Savadatti)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Anuraddha Rohidekar  (-- Uday Savadatti)/Rakshank Savadatti
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Anuraddha Rohidekar  (-- Uday Savadatti)/Rohit Savadatti
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Rohini Rohidekar  (-- Giridhar Deshpande)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Rohini Rohidekar  (-- Giridhar Deshpande)/Aishwarya Deshpande
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Shree Rohidekar  (-- Girish Dixit)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Shree Rohidekar  (-- Girish Dixit)/Shashank
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Babu Rao Rohidekar (b. 1932)  (-- Mirji/Shantabai Shantabai/)/Shree Rohidekar  (-- Girish Dixit)/Nishant
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Rupa Rohidekar  (-- Govindaswamy)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Rupa Rohidekar  (-- Govindaswamy)/Rashmi Govind (b. 1985)  (-- Raghavendra)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Rupa Rohidekar  (-- Govindaswamy)/Rashmi Govind (b. 1985)  (-- Raghavendra)/Vishnu
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Rupa Rohidekar  (-- Govindaswamy)/Ramya Govind (b. 1988)  (-- Hariprasad)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Rupa Rohidekar  (-- Govindaswamy)/Ramya Govind (b. 1988)  (-- Hariprasad)/(no name) (b. 2 Nov 2020)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Satish Rohidekar  (-- Chitra Srinivasan)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Satish Rohidekar  (-- Chitra Srinivasan)/Akhil Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Indumati Rohidekar  (-- Krishnamurthy)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Indumati Rohidekar  (-- Krishnamurthy)/Dilip Krishnamurthy (b. 1990)  (-- Dhruti Ramya)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Krishnamurthy Rohidekar  (-- Lakshmi)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)/Krishnaji Laxman Rohidekar (b. 1899, d. 1964)  (-- Venkubai)/Raghavendra (Raghu) Rohidekar (b. 1934)  (-- Malati Kakmari)/Krishnamurthy Rohidekar  (-- Lakshmi)/Nikhil Rohidekar
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Anand Rao Rohidekar (d. 1895)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Bhimka Rao Rohidekar (d. 1920)  (-- Radhabai)
+/Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)/Venkawwa Rohidekar
