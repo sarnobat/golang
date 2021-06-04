@@ -6,7 +6,6 @@ import (
 	"io"
 	"log"
 	"os"
-//    "bytes"
 	"strconv"
 	"strings"
     "github.com/pborman/getopt"
@@ -26,12 +25,12 @@ func main() {
     
     size := fi.Size()
     if size > 0 {
-        fmt.Printf("%v bytes available in Stdin\n", size)
+        fmt.Fprintf(os.Stderr, "[DEBUG] %v bytes available in Stdin\n", size)
         
 		in = bufio.NewReader(os.Stdin)
 		
     } else {
-        //fmt.Println("Stdin is empty")
+        println("[DEBUG] Stdin is empty\n")
         
 		optHelp := getopt.BoolLong("help", 0, "Help")
 		getopt.Parse()
@@ -43,7 +42,7 @@ func main() {
 		}	
 		// Get the remaining positional parameters
 	
-		fmt.Println("positional args: ", args)
+		fmt.Println("[DEBUG] positional args: ", args)
 		var fn string
 		if (len(args) == 0) {
 			home, _ := os.UserHomeDir() 
@@ -61,21 +60,19 @@ func main() {
 
 		in = bufio.NewReader(file)
     }
-    
-    
-    
+        
     for {
-			s, err := in.ReadString('\n')
-			if err != nil {
-				if err != io.EOF {
-					log.Fatal(err)
-				}
-				break
+		s, err := in.ReadString('\n')
+		if err != nil {
+			if err != io.EOF {
+				log.Fatal(err)
 			}
-			trimmed := strings.TrimSpace(s)
-			level, err := strconv.Atoi(strings.Split(trimmed, " ")[0])
-			fmt.Print(strings.Repeat("\t", level))
-			fmt.Print(trimmed)
-			fmt.Print("\n")
+			break
 		}
+		trimmed := strings.TrimSpace(s)
+		level, err := strconv.Atoi(strings.Split(trimmed, " ")[0])
+		fmt.Print(strings.Repeat("\t", level))
+		fmt.Print(trimmed)
+		fmt.Print("\n")
+	}
 }
