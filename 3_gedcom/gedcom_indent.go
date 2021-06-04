@@ -43,12 +43,8 @@ func main() {
 			fmt.Print("\n")
 		}
     } else {
-        fmt.Println("Stdin is empty")
+        //fmt.Println("Stdin is empty")
         
-		//optName := getopt.StringLong("name", 'n', "Prakash", "Your name")
-		//optPadding := getopt.StringLong("pad", 'p', "*", "Indentation")
-		//home := os.UserHomeDir() 
-		//file := getopt.StringLong("file", 'f', home + "/sarnobat.git/gedcom/rohidekar.ged", "Gedcom File")
 		optHelp := getopt.BoolLong("help", 0, "Help")
 		getopt.Parse()
 		args := getopt.Args()
@@ -56,11 +52,7 @@ func main() {
 		if *optHelp {
 			getopt.Usage()
 			os.Exit(0)
-		}
-
-		//fmt.Println("File:\t" + *file)
-		//fmt.Println("Name:\t" + *optName)
-	
+		}	
 		// Get the remaining positional parameters
 	
 		fmt.Println("positional args: ", args)
@@ -103,13 +95,6 @@ func main() {
 
 			}
 			line := buffer.String()
-
-
-			// Process the line here.
-//			fmt.Printf(" > Read %d characters\n", len(line))
-//			fmt.Printf(" > > %s\n", limitLength(line, 50))
-
-		
 			
 			if err == io.EOF {
 				break
@@ -127,18 +112,6 @@ func main() {
 		if err != io.EOF {
 			fmt.Printf(" > Failed with error: %v\n", err)
 			panic(err)
-		}
-
-		
-		
+		}		
     }
-    
-}
-
-
-func limitLength(s string, length int) string {
-    if len(s) < length {
-        return s
-    }
-    return s[:length]
 }
