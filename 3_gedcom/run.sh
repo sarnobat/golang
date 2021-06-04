@@ -1,10 +1,14 @@
-go build
-mv 3_gedcom gedcom
+# go build
+# mv 3_gedcom gedcom
+# 
+# # no args - use default values
+# gedcom
 
-# no args - use default values
-gedcom
+env GOOS=linux GOARCH=amd64 go build gedcom_indent.go
+mv gedcom_indent gedcom_indent.linux
 
-gedcom --name Sridhar --file rohidekar.ged hi
+env GOOS=darwin GOARCH=amd64 go build gedcom_indent.go
+cp gedcom_indent gedcom_indent.osx
 
 cat rohidekar.ged | gedcom_indent
 
