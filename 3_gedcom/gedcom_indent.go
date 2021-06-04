@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 	"os"
-    "bytes"
+//    "bytes"
 	"strconv"
 	"strings"
     "github.com/pborman/getopt"
@@ -22,26 +22,14 @@ func main() {
     if err != nil {
         fmt.Println("file.Stat()", err)
     }
+    var in *bufio.Reader
     
     size := fi.Size()
     if size > 0 {
         fmt.Printf("%v bytes available in Stdin\n", size)
         
-		in := bufio.NewReader(os.Stdin)
-		for {
-			s, err := in.ReadString('\n')
-			if err != nil {
-				if err != io.EOF {
-					log.Fatal(err)
-				}
-				break
-			}
-			trimmed := strings.TrimSpace(s)
-			level, err := strconv.Atoi(strings.Split(trimmed, " ")[0])
-			fmt.Print(strings.Repeat("\t", level))
-			fmt.Print(trimmed)
-			fmt.Print("\n")
-		}
+		in = bufio.NewReader(os.Stdin)
+		
     } else {
         //fmt.Println("Stdin is empty")
         
@@ -71,47 +59,23 @@ func main() {
 		}
 		defer file.Close()
 
-		// Start reading from the file with a reader.
-		reader := bufio.NewReader(file)
-		for {
-			var buffer bytes.Buffer
-
-			var l []byte
-			var isPrefix bool
-			for {
-				l, isPrefix, err = reader.ReadLine()
-				buffer.Write(l)
-				// If we've reached the end of the line, stop reading.
-				if !isPrefix {
-					break
+		in = bufio.NewReader(file)
+    }
+    
+    
+    
+    for {
+			s, err := in.ReadString('\n')
+			if err != nil {
+				if err != io.EOF {
+					log.Fatal(err)
 				}
-				// If we're at the EOF, break.
-				if err != nil {
-					if err != io.EOF {
-						panic(err)
-					}
-					break
-				}
-
-			}
-			line := buffer.String()
-			
-			if err == io.EOF {
 				break
 			}
-			
-			s:= line
-			
 			trimmed := strings.TrimSpace(s)
-			level, _ := strconv.Atoi(strings.Split(trimmed, " ")[0])
+			level, err := strconv.Atoi(strings.Split(trimmed, " ")[0])
 			fmt.Print(strings.Repeat("\t", level))
 			fmt.Print(trimmed)
 			fmt.Print("\n")
-			
 		}
-		if err != io.EOF {
-			fmt.Printf(" > Failed with error: %v\n", err)
-			panic(err)
-		}		
-    }
 }
