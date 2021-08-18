@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	optName := getopt.StringLong("name", 'n', "", "Your name")
+	optName := getopt.StringLong("name", 'n', "Sridhar", "Your name")
 	optHelp := getopt.BoolLong("help", 0, "Help")
 	getopt.Parse()
 
@@ -19,7 +19,7 @@ func main() {
 		getopt.Usage()
 		os.Exit(0)
 	}
-	fmt.Println("Hello " + *optName)
+	fmt.Println("name = " + *optName)
 
 	in := bufio.NewReader(os.Stdin)
 	for {
