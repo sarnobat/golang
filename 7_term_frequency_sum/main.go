@@ -10,13 +10,6 @@ import (
 	"regexp"
 )
 
-func pinger(c chan string) {
-	for i := 0; i < 3; i++ {
-		c <- "ping"
-	}
-	close(c)
-}
-
 func main() {
 	optName := getopt.StringLong("name", 'n', "Sridhar", "Your name")
 	optHelp := getopt.BoolLong("help", 0, "Help")
@@ -29,14 +22,7 @@ func main() {
 	fmt.Println("name = " + *optName)
 
 	documentFrequenciesMap := make(map[string]int)
-	//     messages := make(chan string)
-	//
-	// 	go func() {
-	// 	    msg := <-messages
-	// 		fmt.Println(msg)
-	// 	}()
-	//
-	// 	messages <- "ping"
+
 
 	var c chan string = make(chan string)
 
