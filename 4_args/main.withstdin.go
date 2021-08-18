@@ -9,6 +9,7 @@ import (
 	"os"
 )
 
+// echo "hi" | go run main.go
 func main() {
 	optName := getopt.StringLong("name", 'n', "", "Your name")
 	optHelp := getopt.BoolLong("help", 0, "Help")
