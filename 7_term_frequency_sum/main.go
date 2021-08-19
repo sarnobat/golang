@@ -1,6 +1,8 @@
 package main
 
 import (
+    "strconv"
+
 	"bufio"
 	"fmt"
 	"github.com/pborman/getopt"
@@ -48,19 +50,12 @@ func main() {
 		elem := r.FindStringSubmatch(line)
 
 		if len(elem) == 0 {
-			// no match
-
-			// put it on the term frequencies channel
-			// and delay processing (this will cause a queue backlog)
-
-			//termFrequenciesChannel <- line
 			if _, err := f.Write([]byte(line)); err != nil {
 				log.Fatal(err)
 			}
 
 			continue
 		} else {
-			// process immediately, don't use a channel
 			documentFrequenciesMap[elem[2]] += 1
 		}
 	}
@@ -68,19 +63,6 @@ func main() {
 	if err := f.Close(); err != nil {
 		log.Fatal(err)
 	}
-
-	// Only read from the term frequencies channel when we've
-	// finished processing the document frequencies channel
-
-	// 	var c chan string = make(chan string)
-	//
-	// 	go func(c chan string) {
-	// 		for i := 0; i < 3; i++ {
-	// 			c <- "ping"
-	//
-	// 		}
-	// 		close(c)
-	// 	}(c)
 
 	fmt.Println()
 	fmt.Println("map:", documentFrequenciesMap)
@@ -94,18 +76,47 @@ func main() {
 	scanner := bufio.NewScanner(file)
 	// optionally, resize scanner's capacity for lines over 64K, see next example
 	for scanner.Scan() {
-		//fmt.Println(scanner.Text())
-		println("[debug] phase 2: " + scanner.Text())
+		line := scanner.Text()
+		println("[debug] phase 2: " + line)
+		
+		//regex := "^\\s*([0-9]+)*\\s*(.*): (.*)\n"
+		regex := "^\\s*([0-9]+)\\s+(.*):\\s+(.*)"
+		r := regexp.MustCompile(regex)
+		elem := r.FindStringSubmatch(line)
+
+		if len(elem) == 0 {
+// 			println("[debug] phase 2: term frequency = ", elem[1])
+// 			os.Exit(-1)
+			continue
+		} else {
+
+			println("[debug] phase 2: term frequency = ", elem[1])
+			println("[debug] phase 2: document = ", elem[2])
+			println("[debug] phase 2: term = ", elem[3])
+			println("[debug] phase 2: document frequency = ", documentFrequenciesMap[elem[3]])
+			
+			tf, err := strconv.ParseFloat(elem[1],8)
+			if err != nil {
+				// handle error
+				fmt.Println(err)
+				os.Exit(2)
+			}
+
+			df := documentFrequenciesMap[elem[3]]
+
+			score := float64(tf) / float64(df)
+// 			fmt.Printf("phase 2: tfidf score = %f\n", score)
+			fmt.Printf("phase 3: %s\t%.1f\t%s\n", elem[2], score, elem[3])
+
+// 			println("phase 2: tfidf score = ", score)
+			println()
+// 			os.Exit(-1)
+		}
+
 	}
 
 	if err := scanner.Err(); err != nil {
 		log.Fatal(err)
 	}
-
-	// 	for msg := range termFrequenciesChannel {
-	// 		fmt.Println(msg)
-	// 	}
-
-	os.Exit(0)
 
 }

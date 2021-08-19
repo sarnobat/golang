@@ -81,6 +81,7 @@ func main() {
 				fmt.Print("\t")
 				fmt.Print(prevMd5)
 				fmt.Print("\t")
+				fmt.Print("--------------------------------")
 			}
 
 			mapp.Clear()
