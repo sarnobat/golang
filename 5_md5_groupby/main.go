@@ -81,7 +81,7 @@ func main() {
 				fmt.Print("\t")
 				fmt.Print(prevMd5)
 				fmt.Print("\t")
-				fmt.Print("--------------------------------")
+				fmt.Print("--------------------------------------")
 			}
 
 			mapp.Clear()
@@ -98,6 +98,6 @@ func main() {
 			os.Exit(-1)
 		}
 		prevMd5 = elem[1]
-
 	}
+	fmt.Println()
 }
