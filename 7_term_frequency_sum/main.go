@@ -50,11 +50,11 @@ func main() {
 		elem := r.FindStringSubmatch(line)
 
 		if len(elem) == 0 {
+			// not a document frequency row, is a term frequency row
+			// just write it out to a file and scan through it later
 			if _, err := f.Write([]byte(line)); err != nil {
 				log.Fatal(err)
 			}
-
-			continue
 		} else {
 			documentFrequenciesMap[elem[2]] += 1
 		}
@@ -65,19 +65,20 @@ func main() {
 	}
 
 	fmt.Println()
-	fmt.Println("map:", documentFrequenciesMap)
+	fmt.Println("map:", len(documentFrequenciesMap))
 
 	file, err := os.Open("/tmp/queue.log")
 	if err != nil {
 		log.Fatal(err)
 	}
+	err = file.Truncate(0)
 	defer file.Close()
 
 	scanner := bufio.NewScanner(file)
 	// optionally, resize scanner's capacity for lines over 64K, see next example
 	for scanner.Scan() {
 		line := scanner.Text()
-		println("[debug] phase 2: line = " + line)
+// 		println("[debug] phase 2: line = " + line)
 		
 		//regex := "^\\s*([0-9]+)*\\s*(.*): (.*)\n"
 		regex := "^\\s*([0-9]+)\\s+(.*):\\s+(.*)"
@@ -85,9 +86,10 @@ func main() {
 		elem := r.FindStringSubmatch(line)
 
 		if len(elem) == 0 {
+			println("[debug] phase 2: skipping line = ", line)
 // 			println("[debug] phase 2: term frequency = ", elem[1])
-// 			os.Exit(-1)
-			continue
+			os.Exit(-1)
+// 			continue
 		} else {
 
 // 			println("[debug] phase 2: total docs: ", len(documentFrequenciesMap))
@@ -108,8 +110,10 @@ func main() {
 			if (df == 0) {
 				fmt.Println(err)
 				fmt.Println("Couldn't find document frequency, skipping: " + line)
-				//os.Exit(2)
-				continue
+				fmt.Println("Elems: ", elem)
+				fmt.Printf("Elem 3: >%s<", elem[3])
+				os.Exit(2)
+// 				continue
 			}
 
 			// (what does df = 0 mean? We are getting this case)
