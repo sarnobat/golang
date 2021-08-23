@@ -120,7 +120,7 @@ func main() {
 			// TODO: why is everything a round number in the output?
 			score := float64(tf) / float64(df)
 // 			fmt.Printf("phase 2: tfidf score = %f\n", score)
-			fmt.Printf("phase 3: %s\t%.1f\t%s\n", elem[2], score, elem[3])
+			fmt.Printf("phase 3: %s\t%.2f\t%s\n", elem[2], score, elem[3])
 
 // 			println("phase 2: tfidf score = ", score)
 			println()
