@@ -43,7 +43,7 @@ func main() {
 			break
 		}
 		_ = line
-		println("[debug] phase 1: " + line)
+		print("[debug] phase 1: " + line)
 
 		regex := "^\\s*([0-9]+)*\\s*DOCUMENT_FREQUENCY_TOTAL..(.*)\n"
 		r := regexp.MustCompile(regex)
@@ -77,7 +77,7 @@ func main() {
 	// optionally, resize scanner's capacity for lines over 64K, see next example
 	for scanner.Scan() {
 		line := scanner.Text()
-		println("[debug] phase 2: " + line)
+		println("[debug] phase 2: line = " + line)
 		
 		//regex := "^\\s*([0-9]+)*\\s*(.*): (.*)\n"
 		regex := "^\\s*([0-9]+)\\s+(.*):\\s+(.*)"
@@ -90,11 +90,12 @@ func main() {
 			continue
 		} else {
 
-			println("[debug] phase 2: term frequency = ", elem[1])
-			println("[debug] phase 2: document = ", elem[2])
-			println("[debug] phase 2: term = ", elem[3])
-			println("[debug] phase 2: document frequency = ", documentFrequenciesMap[elem[3]])
-			
+// 			println("[debug] phase 2: total docs: ", len(documentFrequenciesMap))
+// 			println("[debug] phase 2: term frequency = ", elem[1])
+// 			println("[debug] phase 2: document = ", elem[2])
+// 			println("[debug] phase 2: term = ", elem[3])
+// 			println("[debug] phase 2: document frequency = ", documentFrequenciesMap[elem[3]])
+// 			
 			tf, err := strconv.ParseFloat(elem[1],8)
 			if err != nil {
 				// handle error
@@ -103,7 +104,16 @@ func main() {
 			}
 
 			df := documentFrequenciesMap[elem[3]]
+			
+			if (df == 0) {
+				fmt.Println(err)
+				fmt.Println("Couldn't find document frequency, skipping: " + line)
+				//os.Exit(2)
+				continue
+			}
 
+			// (what does df = 0 mean? We are getting this case)
+			// TODO: why is everything a round number in the output?
 			score := float64(tf) / float64(df)
 // 			fmt.Printf("phase 2: tfidf score = %f\n", score)
 			fmt.Printf("phase 3: %s\t%.1f\t%s\n", elem[2], score, elem[3])
