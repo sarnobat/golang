@@ -13,6 +13,7 @@ import (
 
 func main() {
 
+	// TODO: do not print if only count of "1"
 	optDelimiter := *getopt.StringLong("delimiter", 'd', "\\s+", "Group file paths onto a single line")
 	optHelp := getopt.BoolLong("help", 0, "Help")
 	oneline := getopt.BoolLong("oneline", 0, "Group file paths onto a single line")
