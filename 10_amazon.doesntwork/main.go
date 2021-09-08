@@ -5,6 +5,9 @@ import (
 	"github.com/DDRBoxman/go-amazon-product-api"
 )
 
+// 2021-08 Doesn't work. I haven't found a good Golang solution for AWS
+// Furthermore, it looks like Amazon doesn't allow low-traffic clients, it's
+// meant for active affiliates only.
 func main() {
 	var api amazonproduct.AmazonProductAPI
 
