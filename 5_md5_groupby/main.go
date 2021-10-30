@@ -36,6 +36,7 @@ func main() {
 			}
 			break
 		}
+		//fmt.Fprintf(os.Stderr, "[DEBUG] line = %v\n", s)
 
 		// TODO: change this to support delimiter "::" so that we can
 		// use this on exif_gps output and group photos (then display them on google maps)
@@ -44,12 +45,15 @@ func main() {
 		// 		optDelimiter2 := "\\s+"
 		// 		fmt.Fprintf(os.Stderr, "[DEBUG] optDelimiter2 = %v\n", optDelimiter2)
 		exp := "(?P<Md5>[^\\s]+)" + optDelimiter + "(?P<Path>.*)"
-//		fmt.Fprintf(os.Stderr, "[DEBUG] exp = %v\n", exp)
+		//fmt.Fprintf(os.Stderr, "[DEBUG] exp = %v\n", exp)
 		r := regexp.MustCompile(exp)
 		elem := r.FindStringSubmatch(s)
+		if len(elem) != 3 {
+			continue
+		}
 
-		// fmt.Fprintf(os.Stderr, "[DEBUG] elem[1] = %v\n", elem[1])
-		// fmt.Fprintf(os.Stderr, "[DEBUG] elem[2] = %v\n", elem[2])
+//		 fmt.Fprintf(os.Stderr, "[DEBUG] elem[1] = %v\n", elem[1])
+//		 fmt.Fprintf(os.Stderr, "[DEBUG] elem[2] = %v\n", elem[2])
 		// fmt.Fprintf(os.Stderr, "[DEBUG]\n")
 
 		if prevMd5 == "" {
