@@ -218,7 +218,10 @@ func playlistsList(service *youtube.Service, part []string, channelId string, hl
 func main() {
 	flag.Parse()
 
-	println("Note if the code in the address bar has %2F, change it to /")
+	println("1 Without a web server, the browser will show an error but the address bar is good enough.")
+	println("2 Note if the code generated in the address bar has %2F, change it to /")
+	println("3 Make sure you chose the sarnobat2000 brand account. The other one will be empty")
+	println("4 (Credentials are stored in ~/.credentials/ )")
 	if *channelId == "" && *mine == false && *playlistId == "" {
 		log.Fatalf("You must either set a value for the channelId or playlistId flag or set the mine flag to 'true'.")
 	}
