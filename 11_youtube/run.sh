@@ -10,4 +10,4 @@ cp playlists playlists.osx
 # TODO - try to do this with a Dockerfile for experience, and to see what is still not automatic
 # minimal example
 playlists --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json
-GOPATH=/Users/sarnobat/2021/gopath/  go run playlists.go --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json | tee playlists.out
+GOPATH=/Users/sarnobat/2021/gopath/  go run playlists.go --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json | tee playlists.out.txt
