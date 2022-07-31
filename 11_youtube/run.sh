@@ -5,6 +5,9 @@ mv playlists playlists.linux
 GOPATH=/Users/sarnobat/2021/gopath/ env GOOS=darwin GOARCH=amd64 go build playlists.go
 cp playlists playlists.osx
 
+GOPATH=/Users/sarnobat/2021/gopath/ env GOOS=darwin GOARCH=amd64 go build playlist_items.go
+cp playlist_items playlist_items.osx
+
 # Note: watch later playlist is not supported anymore by the API. Back to greasemonkey :(
 
 # TODO - try to do this with a Dockerfile for experience, and to see what is still not automatic
