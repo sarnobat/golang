@@ -2,7 +2,7 @@
 env GOOS=linux GOARCH=amd64 go build playlists.go
 mv playlists playlists.linux
 
-env GOOS=darwin GOARCH=amd64 go build playlists.go
+GOPATH=/Users/sarnobat/2021/gopath/ env GOOS=darwin GOARCH=amd64 go build playlists.go
 cp playlists playlists.osx
 
 # Note: watch later playlist is not supported anymore by the API. Back to greasemonkey :(
