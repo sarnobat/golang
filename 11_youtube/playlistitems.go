@@ -216,12 +216,12 @@ func playlistsList(service *youtube.Service, part []string, channelId string, hl
 }
 
 // Retrieve playlistItems in the specified playlist
-func playlistItemsList(service *youtube.Service, part string, playlistId string, pageToken string) *youtube.PlaylistItemListResponse {
+func playlistItemsList(service *youtube.Service, part []string, playlistId string, pageToken string) *youtube.PlaylistItemListResponse {
         call := service.PlaylistItems.List(part)
         call = call.PlaylistId(playlistId)
-        if pageToken != "" {
-                call = call.PageToken(pageToken)
-        }
+//         if pageToken != "" {
+//                 call = call.PageToken(pageToken)
+//         }
         response, err := call.Do()
         handleError(err, "")
         return response
@@ -229,7 +229,7 @@ func playlistItemsList(service *youtube.Service, part string, playlistId string,
 
 // Retrieve resource for the authenticated user's channel
 func channelsListMine(service *youtube.Service, part string) *youtube.ChannelListResponse {
-        call := service.Channels.List(part)
+        call := service.Channels.List([]string{part})
         call = call.Mine(true)
         response, err := call.Do()
         handleError(err, "")
@@ -261,6 +261,15 @@ func main() {
 		playlistTitle := playlist.Snippet.Title
 
 		// Print the playlist ID and title for the playlist resource.
-		fmt.Println("https://www.youtube.com/playlist?list=" + playlistId, " :: ", playlistTitle)
+		//fmt.Println("https://www.youtube.com/playlist?list=" + playlistId, " :: ", playlistTitle)
+		
+		response := playlistItemsList(service, []string{"snippet", "contentDetails"}, playlistId, "0");
+		for _, playlistItem := range response.Items {
+			//fmt.Println(playlistTitle," :: ",playlistItem.Snippet.Title);
+			fmt.Printf("%-40v :: %v\r\n", playlistTitle, playlistItem.Snippet.Title)
+
+		}
 	}
+	
+	
 }
