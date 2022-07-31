@@ -14,3 +14,8 @@ cp playlist_items playlist_items.osx
 # minimal example
 playlists --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json
 GOPATH=/Users/sarnobat/2021/gopath/  go run playlists.go --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json | tee playlists.out.txt
+
+./playlist_items --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json | tee playlist_items.out.txt
+GOPATH=/Users/sarnobat/2021/gopath/  go run playlist_items.go --clientSecret client_secret_803470544206-ni4anh43sh69athsll8s32qkb5dn0des.apps.googleusercontent.com.json | tee playlist_items.out.txt
+
+## Setting up the credentials is a pain (but worth it? I haven't decided)
