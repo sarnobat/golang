@@ -7,9 +7,11 @@
 #----------------------------------------------------------------------------
 
 
-cat <<EOF
+cat <<EOF | tee /tmp/run.sh
 mkdir /tmp/gomount
-go run main.go
+cd ~/github/go-fuse/example/hello/
+go run main.go /tmp/gomount
+umount /tmp/gomount
 rmdir /tmp/gomount
 EOF
 
