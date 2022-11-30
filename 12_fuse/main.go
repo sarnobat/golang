@@ -1,0 +1,1 @@
+../../go-fuse/example/hello/main.go
