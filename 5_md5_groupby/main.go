@@ -1,3 +1,8 @@
+// 2022-11-16
+//
+//  go get github.com/pborman/getopt
+//  go get github.com/jwangsadinata/go-multimap/slicemultimap
+
 package main
 
 import (
