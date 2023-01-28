@@ -30,7 +30,7 @@ func main() {
 	fmt.Println("positional args: ", args)
 
 
-	document, err := gedcom.NewDocumentFromGEDCOMFile("/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged")
+	document, err := gedcom.NewDocumentFromGEDCOMFile(home + "/sarnobat.git/gedcom/rohidekar.ged")
 	if err != nil {
 		panic(err)
 	}
