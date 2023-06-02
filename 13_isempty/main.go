@@ -40,7 +40,7 @@ func main() {
 	///
 // 	optName := getopt.StringLong("invert", 'v', "", "Invert match")
 	optHelp := getopt.BoolLong("help", 0, "Help")
-	optInvert := getopt.BoolLong("invert", 'v', "Invert match")
+// 	optInvert := getopt.BoolLong("invert", 'v', "Invert match")
 	getopt.Parse()
 
 	if *optHelp {
@@ -48,8 +48,8 @@ func main() {
 		os.Exit(0)
 	}
 	
-	result := fmt.Sprintf("invert=%t", *optInvert)
-	fmt.Println(result)
+// 	result := fmt.Sprintf("invert=%t", *optInvert)
+// 	fmt.Println(result)
 
 	///
 	/// 1) Loop over stdin
@@ -74,7 +74,7 @@ func main() {
 		// 3) Parse file path
 		//
 
-		if file, err := os.Stat(p); !os.IsNotExist(err) {
+		if _, err := os.Stat(p); !os.IsNotExist(err) {
 
 			switch i, err := os.Stat(p); {
 			case err != nil:
@@ -86,19 +86,19 @@ func main() {
 					return
 				}
 				if len(files) == 0 {
-					fmt.Fprintf(os.Stderr, "[empty dir]" + p + "\n")
+//					fmt.Fprintf(os.Stderr, "[empty dir]" + p + "\n")
 					fmt.Println(p)
 				} else {
-					fmt.Fprintf(os.Stderr, "[not empty dir]" + p + "\n")
+// 					fmt.Fprintf(os.Stderr, "[not empty dir]" + p + "\n")
 				}
 
-			default:
-				if file.Size() == 0 {
-// 					fmt.Println(p)
-					fmt.Fprintf(os.Stderr, "[empty file]" + p + "\n")
-				} else {
-					fmt.Fprintf(os.Stderr, "[not empty file] " + p + "\n")
-				}
+// 			default:
+// 				if file.Size() == 0 {
+// // 					fmt.Println(p)
+// //					fmt.Fprintf(os.Stderr, "[empty file]" + p + "\n")
+// 				} else {
+// //					fmt.Fprintf(os.Stderr, "[not empty file] " + p + "\n")
+// 				}
 			}
 		}
 	}

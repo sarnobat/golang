@@ -12,7 +12,8 @@ set -o nounset
 test $# -gt 0 && echo "args given" || echo "no args"
 
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
-GOARCH=amd64 go build
+GOOS=linux GOARCH=amd64 go build
+go build
 
 EOF
 
