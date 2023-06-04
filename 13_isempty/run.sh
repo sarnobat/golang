@@ -31,9 +31,9 @@ mv isfile isfile.mac.intel
 GOOS=darwin GOARCH=arm64 go build isfile.go
 mv isfile isfile.mac.m1
 
-rsync *m1		/Volumes/git/github/binaries/mac.m1/bin
-rsync *linux 	/Volumes/git/github/binaries/ubuntu/bin
-rsync *intel 	/Volumes/git/github/binaries/mac.intel/bin
+rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
+rsync -a -v *linux 	/Volumes/git/github/binaries/ubuntu/bin
+rsync -a -v *intel 	/Volumes/git/github/binaries/mac.intel/bin
 EOF
 
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
