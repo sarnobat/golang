@@ -32,7 +32,8 @@ GOOS=darwin GOARCH=arm64 go build isfile.go
 mv isfile isfile.mac.m1
 
 EOF
-cat <<EOF
+
+cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
 To build all:
 sh /tmp/run.sh
 EOF
