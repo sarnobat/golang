@@ -9,23 +9,30 @@
 set -o errexit
 set -o nounset
 
-cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
+cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
 GOOS=linux GOARCH=amd64 go build isempty.go
 mv isempty isempty.linux
-go build isempty.go
-mv isempty isempty.mac
+GOOS=darwin GOARCH=arm64 go build isempty.go
+mv isempty isempty.mac.m1
+GOOS=darwin GOARCH=amd64 go build isempty.go
+mv isempty isempty.mac.intel
 
 GOOS=linux GOARCH=amd64 go build isdir.go
 mv isdir isdir.linux
-go build isdir.go
-mv isdir isdir.mac
+GOOS=darwin GOARCH=arm64 go build isdir.go
+mv isdir isdir.mac.m1
+GOOS=darwin GOARCH=amd64  go build isdir.go
+mv isdir isdir.mac.intel
 
 GOOS=linux GOARCH=amd64 go build isfile.go
 mv isfile isfile.linux
-go build isfile.go
-mv isfile isfile.mac
+GOOS=darwin GOARCH=amd64 go build isfile.go
+mv isfile isfile.mac.intel
+GOOS=darwin GOARCH=arm64 go build isfile.go
+mv isfile isfile.mac.m1
 
 EOF
-
-
-
+cat <<EOF
+To build all:
+sh /tmp/run.sh
+EOF
