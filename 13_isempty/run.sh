@@ -22,8 +22,8 @@ mv isdir isdir.mac
 
 GOOS=linux GOARCH=amd64 go build isfile.go
 mv isfile isfile.linux
-go build isdir.go
-mv isdir isdir.mac
+go build isfile.go
+mv isfile isfile.mac
 
 EOF
 
