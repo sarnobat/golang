@@ -37,6 +37,9 @@ rsync -a -v *intel 	/Volumes/git/github/binaries/mac.intel/bin
 EOF
 
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
+
+cd /Volumes/git/github/binaries/
+
 To build all:
 sh /tmp/run.sh
 EOF
