@@ -14,12 +14,18 @@ test $# -gt 0 && echo "args given" || echo "no args"
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
 GOOS=linux GOARCH=amd64 go build isempty.go
 mv isempty isempty.linux
+go build isempty.go
+mv isempty isempty.mac
 
 GOOS=linux GOARCH=amd64 go build isdir.go
 mv isdir isdir.linux
+go build isdir.go
+mv isdir isdir.mac
 
 GOOS=linux GOARCH=amd64 go build isfile.go
 mv isfile isfile.linux
+go build isdir.go
+mv isdir isdir.mac
 
 EOF
 
