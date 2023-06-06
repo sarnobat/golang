@@ -19,8 +19,12 @@ mv sample sample.mac.intel
 
 
 rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
-rsync -a -v *linux 	/Volumes/git/github/binaries/ubuntu/bin
+rsync -a -v *linux 	/Volumes/git/github/binaries/linux/bin
 rsync -a -v *intel 	/Volumes/git/github/binaries/mac.intel/bin
+
+rename -v 's{.linux$}{}g' /Volumes/git/github/binaries/linux/bin/*.linux
+rename -v 's{.mac.intel$}{}g' /Volumes/git/github/binaries/mac.intel/bin/*.intel
+rename -v 's{.mac.m1$}{}g' /Volumes/git/github/binaries/mac.m1/bin/*.m1
 EOF
 
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
