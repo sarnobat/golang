@@ -9,11 +9,24 @@
 set -o errexit
 set -o nounset
 
-test $# -gt 0 && echo "args given" || echo "no args"
+cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
+GOOS=linux GOARCH=amd64 go build sample.go
+mv sample sample.linux
+GOOS=darwin GOARCH=arm64 go build sample.go
+mv sample sample.mac.m1
+GOOS=darwin GOARCH=amd64 go build sample.go
+mv sample sample.mac.intel
 
-cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
-currently implemented in cython, which doesn't work on ubuntu. Reimplement it in Golang to avoid the shared object nonsense.
+
+rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
+rsync -a -v *linux 	/Volumes/git/github/binaries/ubuntu/bin
+rsync -a -v *intel 	/Volumes/git/github/binaries/mac.intel/bin
 EOF
 
+cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
 
+cd /Volumes/git/github/binaries/
 
+To build all:
+sh /tmp/run.sh
+EOF
