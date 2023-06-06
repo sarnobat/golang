@@ -25,11 +25,12 @@ func main() {
     // Read the lines from the standard input
     scanner := bufio.NewScanner(os.Stdin)
 
-    // Generate a random number between 0 and 100
-    randomNumber := rand.Float64() * 100
 
     // Print the lines that are less than the percentage
     for scanner.Scan() {
+		// Generate a random number between 0 and 100
+		randomNumber := rand.Float64() * 100
+
         if randomNumber < *percent {
             fmt.Println(scanner.Text())
         }
