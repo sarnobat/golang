@@ -25,7 +25,7 @@ func main() {
 		relativePath, _ := filepath.Rel(currentWorkingDirectory, path)
 
 		// Print the relative path.
-		fmt.Println(relativePath)
+		fmt.Println("./" + relativePath)
 
     }
 }
