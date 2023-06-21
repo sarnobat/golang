@@ -9,13 +9,15 @@
 set -o errexit
 set -o nounset
 
+PROGRAM_NAME="abs2rel"
+
 cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
-GOOS=linux GOARCH=amd64 go build sample.go
-mv sample sample.linux
-GOOS=darwin GOARCH=arm64 go build sample.go
-mv sample sample.mac.m1
-GOOS=darwin GOARCH=amd64 go build sample.go
-mv sample sample.mac.intel
+GOOS=linux GOARCH=amd64 go build $PROGRAM_NAME.go
+mv $PROGRAM_NAME $PROGRAM_NAME.linux
+GOOS=darwin GOARCH=arm64 go build $PROGRAM_NAME.go
+mv $PROGRAM_NAME $PROGRAM_NAME.mac.m1
+GOOS=darwin GOARCH=amd64 go build $PROGRAM_NAME.go
+mv $PROGRAM_NAME $PROGRAM_NAME.mac.intel
 
 
 rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
