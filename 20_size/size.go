@@ -20,8 +20,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	// I forgot - why is the builtin "flag" package not good enougH?
-	"github.com/pborman/getopt"
 	"io"
 	"log"
 	"os"
@@ -32,14 +30,6 @@ import (
 var counts = make(map[string]int)
 
 func main() {
-
-	optHelp := getopt.BoolLong("help", 0, "Help")
-	getopt.Parse()
-
-	if *optHelp {
-		getopt.Usage()
-		os.Exit(0)
-	}
 	
 	if len(os.Args) < 1 {
 		fmt.Println("Usage: ", os.Args[0], "arg1 arg2 ...")
@@ -47,7 +37,7 @@ func main() {
 	}
 
 
-	upper, err := humanSizeToBytes("999999999999999")
+	upper, err := humanSizeToBytes("999G")
 	if err != nil {
 		log.Fatal(err)
 		return
@@ -58,10 +48,11 @@ func main() {
 		return
 	}
 	for i := 1; i < len(os.Args); i++ {
-		fmt.Println("Argument", i, ":", os.Args[i])
-		if strings.HasPrefix(os.Args[i], "+") {
-// 			n, err := strconv.Atoi(os.Args[i])
-			lower1, err := humanSizeToBytes(removeFirstChar(os.Args[i]))
+		arg := os.Args[i]
+		fmt.Println("Argument", i, ":", arg)
+		if strings.HasPrefix(arg, "+") {
+// 			n, err := strconv.Atoi(arg)
+			lower1, err := humanSizeToBytes(removeFirstChar(arg))
 			if err == nil {
 				fmt.Println("lower bound: ", lower1)
 				lower = lower1
@@ -70,9 +61,9 @@ func main() {
 				fmt.Println("Error 1")
 				return;
 			}
-		} else if strings.HasPrefix(os.Args[1], "-") {
+		} else if strings.HasPrefix(arg, "-") {
 
-			upper1, err := humanSizeToBytes(removeFirstChar(os.Args[i]))
+			upper1, err := humanSizeToBytes(removeFirstChar(arg))
 			if err == nil {
 				fmt.Println("upper bound: ", upper1)
 				upper = upper1
@@ -81,6 +72,10 @@ func main() {
 				fmt.Println("Error 2")
 				return;
 			}
+		} else {
+			log.Fatal(err)
+			fmt.Println("Error 3")
+			return
 		}
 	}
 	
@@ -102,7 +97,7 @@ func main() {
 			case err != nil:
 				fmt.Println(err)
 			case fileInfo.Size() > lower && fileInfo.Size() < upper:
-				fmt.Printf("in range: [%d] %d [%d]  %s \n", lower, fileInfo.Size(), upper, p)
+				fmt.Printf("in range: [%d] %d [%d]  %10s \n", lower, fileInfo.Size(), upper, p)
 			case fileInfo.Size() > 10*1024*1024:
 // 				fmt.Printf("File %s is bigger than 10MB (%d bytes)\n", filePath, fileInfo.Size())
 
@@ -125,7 +120,10 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 	sizeStr = strings.ToUpper(sizeStr)
 
 	for suffix, multiplier := range suffixes {
-		if strings.HasSuffix(sizeStr, suffix) {
+		if len(suffix) == 0 {
+			sizeNum, _ := strconv.ParseInt(sizeStr, 10, 64)
+			return sizeNum * multiplier, nil
+		} else if len(suffix) > 0 && strings.HasSuffix(sizeStr, suffix) {
 			fmt.Println("Before removing suffix ", suffix, " ", sizeStr)
 			sizeNumStr := strings.TrimSuffix(sizeStr, suffix)
 			fmt.Println("After suffix ", suffix, " ", sizeNumStr)
