@@ -47,8 +47,59 @@ func main() {
 	}
 
 
-	upper, _ := humanSizeToBytes("100G")
+	upper, _ := humanSizeToBytes("999999999999999")
+	lower, _ := humanSizeToBytes("1")
+// 	err := 0
+	for i := 1; i < len(os.Args); i++ {
+		fmt.Println("Argument", i, ":", os.Args[i])
+		if strings.HasPrefix(os.Args[i], "+") {
+// 			n, err := strconv.Atoi(os.Args[i])
+			lower, err = humanSizeToBytes(os.Args[i])
+			if err == nil {
+				fmt.Println("lower bound: ", lower)
+			} else {
+				fmt.Println("Error 1")
+				return;
+			}
+		} else if strings.HasPrefix(os.Args[1], "-") {
 
+			upper, err = humanSizeToBytes(os.Args[i])
+			if err == nil {
+				fmt.Println("upper bound: ", upper)
+			} else {
+				fmt.Println("Error 2")
+				return;
+			}
+		}
+	}
+	
+	in := bufio.NewReader(os.Stdin)
+	for {
+		s, err := in.ReadString('\n')
+		if err != nil {
+			if err != io.EOF {
+				log.Fatal(err)
+			}
+			break
+		}
+
+		p := strings.TrimSpace(s)
+
+		if _, err := os.Stat(p); !os.IsNotExist(err) {
+
+			switch fileInfo, err := os.Stat(p); {
+			case err != nil:
+				fmt.Println(err)
+			case fileInfo.Size() > lower && fileInfo.Size() < upper:
+				fmt.Printf("in range: [%d] %d [%d]  %s \n", lower, fileInfo.Size(), upper, p)
+			case fileInfo.Size() > 10*1024*1024:
+// 				fmt.Printf("File %s is bigger than 10MB (%d bytes)\n", filePath, fileInfo.Size())
+
+			default:
+				fmt.Printf("not in range: [%d] %d [%d]  %s\n",  lower, fileInfo.Size(), upper, p)
+			}
+		}
+	}
 }
 
 func humanSizeToBytes(sizeStr string) (int64, error) {
@@ -67,12 +118,14 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 			sizeNumStr := strings.TrimSuffix(sizeStr, suffix)
 			sizeNum, err := strconv.ParseInt(sizeNumStr, 10, 64)
 			if err != nil {
-				return 0, err
+				fmt.Println("[error] 1 invalid size format: ", sizeNumStr, err)
+				return 0, fmt.Errorf("[error] invalid size format: %s", sizeNumStr)
 			}
 			return sizeNum * multiplier, nil
 		}
 	}
 
+	fmt.Println("[error] 2 invalid size format: %s", sizeStr)
 	return 0, fmt.Errorf("invalid size format: %s", sizeStr)
 }
 
