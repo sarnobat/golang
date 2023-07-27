@@ -47,26 +47,37 @@ func main() {
 	}
 
 
-	upper, _ := humanSizeToBytes("999999999999999")
-	lower, _ := humanSizeToBytes("1")
-// 	err := 0
+	upper, err := humanSizeToBytes("999999999999999")
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
+	lower, err := humanSizeToBytes("1")
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
 	for i := 1; i < len(os.Args); i++ {
 		fmt.Println("Argument", i, ":", os.Args[i])
 		if strings.HasPrefix(os.Args[i], "+") {
 // 			n, err := strconv.Atoi(os.Args[i])
-			lower, err = humanSizeToBytes(os.Args[i])
+			lower1, err := humanSizeToBytes(removeFirstChar(os.Args[i]))
 			if err == nil {
-				fmt.Println("lower bound: ", lower)
+				fmt.Println("lower bound: ", lower1)
+				lower = lower1
 			} else {
+				log.Fatal(err)
 				fmt.Println("Error 1")
 				return;
 			}
 		} else if strings.HasPrefix(os.Args[1], "-") {
 
-			upper, err = humanSizeToBytes(os.Args[i])
+			upper1, err := humanSizeToBytes(removeFirstChar(os.Args[i]))
 			if err == nil {
-				fmt.Println("upper bound: ", upper)
+				fmt.Println("upper bound: ", upper1)
+				upper = upper1
 			} else {
+				log.Fatal(err)
 				fmt.Println("Error 2")
 				return;
 			}
@@ -105,7 +116,7 @@ func main() {
 func humanSizeToBytes(sizeStr string) (int64, error) {
 	suffixes := map[string]int64{
 		"":  1,
-		"K": 1024,
+		"k": 1024,
 		"M": 1024 * 1024,
 		"G": 1024 * 1024 * 1024,
 		"T": 1024 * 1024 * 1024 * 1024,
@@ -115,11 +126,13 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 
 	for suffix, multiplier := range suffixes {
 		if strings.HasSuffix(sizeStr, suffix) {
+			fmt.Println("Before removing suffix ", suffix, " ", sizeStr)
 			sizeNumStr := strings.TrimSuffix(sizeStr, suffix)
+			fmt.Println("After suffix ", suffix, " ", sizeNumStr)
 			sizeNum, err := strconv.ParseInt(sizeNumStr, 10, 64)
 			if err != nil {
 				fmt.Println("[error] 1 invalid size format: ", sizeNumStr, err)
-				return 0, fmt.Errorf("[error] invalid size format: %s", sizeNumStr)
+				return 0, fmt.Errorf("[error] %s %s", err, sizeNumStr)
 			}
 			return sizeNum * multiplier, nil
 		}
@@ -129,3 +142,10 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 	return 0, fmt.Errorf("invalid size format: %s", sizeStr)
 }
 
+
+func removeFirstChar(s string) string {
+	if len(s) == 0 {
+		return ""
+	}
+	return s[1:]
+}
