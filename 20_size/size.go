@@ -113,7 +113,7 @@ func main() {
 func humanSizeToBytes(sizeStr string) (int64, error) {
 	suffixes := map[string]int64{
 		"":  1,
-		"k": 1024,
+		"K": 1024,
 		"M": 1024 * 1024,
 		"G": 1024 * 1024 * 1024,
 		"T": 1024 * 1024 * 1024 * 1024,
@@ -143,7 +143,7 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 		}
 	}
 
-	fmt.Println("[error] 2 invalid size format: %s", sizeStr)
+	fmt.Println("[error] 2 invalid size format: ", sizeStr)
 	return 0, fmt.Errorf("invalid size format: %s", sizeStr)
 }
 
