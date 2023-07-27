@@ -34,7 +34,7 @@ var counts = make(map[string]int)
 func main() {
 	
 	if len(os.Args) < 1 {
-		fmt.Println("Usage: ", os.Args[0], "arg1 arg2 ...")
+		fmt.Fprintln(os.Stderr, "Usage: ", os.Args[0], "arg1 arg2 ...")
 		return
 	}
 
@@ -51,32 +51,32 @@ func main() {
 	}
 	for i := 1; i < len(os.Args); i++ {
 		arg := os.Args[i]
-		fmt.Println("Argument", i, ":", arg)
+// 		fmt.Fprintln(os.Stderr, "Argument", i, ":", arg)
 		if strings.HasPrefix(arg, "+") {
 // 			n, err := strconv.Atoi(arg)
 			lower1, err := humanSizeToBytes(removeFirstChar(arg))
 			if err == nil {
-				fmt.Println("lower bound: ", lower1)
+// 				fmt.Fprintln(os.Stderr, "lower bound: ", lower1)
 				lower = lower1
 			} else {
 				log.Fatal(err)
-				fmt.Println("Error 1")
+// 				fmt.Fprintln(os.Stderr, "Error 1")
 				return;
 			}
 		} else if strings.HasPrefix(arg, "-") {
 
 			upper1, err := humanSizeToBytes(removeFirstChar(arg))
 			if err == nil {
-				fmt.Println("upper bound: ", upper1)
+// 				fmt.Fprintln(os.Stderr, "upper bound: ", upper1)
 				upper = upper1
 			} else {
 				log.Fatal(err)
-				fmt.Println("Error 2")
+// 				fmt.Fprintln(os.Stderr, "Error 2")
 				return;
 			}
 		} else {
 			log.Fatal(err)
-			fmt.Println("Error 3")
+// 			fmt.Fprintln(os.Stderr, "Error 3")
 			return
 		}
 	}
@@ -97,14 +97,15 @@ func main() {
 
 			switch fileInfo, err := os.Stat(p); {
 			case err != nil:
-				fmt.Println(err)
+				fmt.Fprintln(os.Stderr, err)
 			case fileInfo.Size() > lower && fileInfo.Size() < upper:
-				fmt.Printf("in range: [%d] %d [%d]  %10s \n", lower, fileInfo.Size(), upper, p)
+// 				fmt.Fprintf(os.Stderr, "in range: [%d] %d [%d]  %10s \n", lower, fileInfo.Size(), upper, p)
+				fmt.Println(p)
 			case fileInfo.Size() > 10*1024*1024:
 // 				fmt.Printf("File %s is bigger than 10MB (%d bytes)\n", filePath, fileInfo.Size())
 
 			default:
-				fmt.Printf("not in range: [%d] %d [%d]  %s\n",  lower, fileInfo.Size(), upper, p)
+// 				fmt.Fprintf(os.Stderr, "not in range: [%d] %d [%d]  %s\n",  lower, fileInfo.Size(), upper, p)
 			}
 		}
 	}
@@ -127,23 +128,23 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 	
 		if regexp.MustCompile(`\d$`).MatchString(sizeStr) {
 			sizeNum, _ := strconv.ParseInt(sizeStr, 10, 64)
-			fmt.Println("[info] sizeNum = ", sizeNum)
+// 			fmt.Fprintln(os.Stderr, "[info] sizeNum = ", sizeNum)
 			return sizeNum * multiplier, nil
 		} else if len(suffix) > 0 && strings.HasSuffix(sizeStr, suffix) {
-			fmt.Println("Before removing suffix ", suffix, " ", sizeStr)
+// 			fmt.Fprintln(os.Stderr, "Before removing suffix ", suffix, " ", sizeStr)
 			sizeNumStr := strings.TrimSuffix(sizeStr, suffix)
-			fmt.Println("After suffix ", suffix, " ", sizeNumStr)
+// 			fmt.Fprintln(os.Stderr, "After suffix ", suffix, " ", sizeNumStr)
 			sizeNum, err := strconv.ParseInt(sizeNumStr, 10, 64)
 			if err != nil {
-				fmt.Println("[error] 1 invalid size format: ", sizeNumStr, err)
+// 				fmt.Fprintln(os.Stderr, "[error] 1 invalid size format: ", sizeNumStr, err)
 				return 0, fmt.Errorf("[error] %s %s", err, sizeNumStr)
 			}			
-			fmt.Println("[info] sizeNum = ", sizeNum)
+// 			fmt.Fprintln(os.Stderr, "[info] sizeNum = ", sizeNum)
 			return sizeNum * multiplier, nil
 		}
 	}
 
-	fmt.Println("[error] 2 invalid size format: ", sizeStr)
+// 	fmt.Fprintln(os.Stderr, "[error] 2 invalid size format: ", sizeStr)
 	return 0, fmt.Errorf("invalid size format: %s", sizeStr)
 }
 
