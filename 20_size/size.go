@@ -25,6 +25,8 @@ import (
 	"os"
 	"strings"
 	"strconv"
+	  "regexp"
+
 )
 
 var counts = make(map[string]int)
@@ -120,8 +122,12 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 	sizeStr = strings.ToUpper(sizeStr)
 
 	for suffix, multiplier := range suffixes {
-		if len(suffix) == 0 {
+	
+	
+	
+		if regexp.MustCompile(`\d$`).MatchString(sizeStr) {
 			sizeNum, _ := strconv.ParseInt(sizeStr, 10, 64)
+			fmt.Println("[info] sizeNum = ", sizeNum)
 			return sizeNum * multiplier, nil
 		} else if len(suffix) > 0 && strings.HasSuffix(sizeStr, suffix) {
 			fmt.Println("Before removing suffix ", suffix, " ", sizeStr)
@@ -131,7 +137,8 @@ func humanSizeToBytes(sizeStr string) (int64, error) {
 			if err != nil {
 				fmt.Println("[error] 1 invalid size format: ", sizeNumStr, err)
 				return 0, fmt.Errorf("[error] %s %s", err, sizeNumStr)
-			}
+			}			
+			fmt.Println("[info] sizeNum = ", sizeNum)
 			return sizeNum * multiplier, nil
 		}
 	}
