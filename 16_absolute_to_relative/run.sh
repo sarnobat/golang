@@ -36,4 +36,6 @@ cd /Volumes/git/github/binaries/
 
 To build all:
 sh /tmp/run.sh
+
+TODO: Also have one that creates a relative path between 2 directories (by subtracting the common prefix)
 EOF
