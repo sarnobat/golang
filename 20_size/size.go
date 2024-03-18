@@ -1,4 +1,7 @@
 //-----------------------------------------------------------------------------------------
+// DESCRIPTION
+//      Prints the path if the file is between the size intervals
+//
 // EXAMPLE
 //
 //	find ~/trash/ 	| go run ~/github/templates.git/helloworld.go
@@ -34,7 +37,7 @@ var counts = make(map[string]int)
 func main() {
 	
 	if len(os.Args) < 1 {
-		fmt.Fprintln(os.Stderr, "Usage: ", os.Args[0], "arg1 arg2 ...")
+		fmt.Fprintln(os.Stderr, "Usage: ", os.Args[0], "<lower> <upper> ...")
 		return
 	}
 
