@@ -1,3 +1,5 @@
+// TODO: release this to the public
+
 package main
 
 import (

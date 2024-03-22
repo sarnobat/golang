@@ -1,0 +1,1 @@
+sum of sizes of file paths supplied on STDIN
