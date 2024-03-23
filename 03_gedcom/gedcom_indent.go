@@ -46,7 +46,7 @@ func main() {
 		var fn string
 		if (len(args) == 0) {
 			home, _ := os.UserHomeDir() 
-			fn = home + "/sarnobat.git/gedcom/rohidekar.ged"
+			fn = home + "/sarnobat.git/2023/genealogy/rohidekar.ged"
 		} else {
 			fn = args[0]
 		}
