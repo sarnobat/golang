@@ -30,7 +30,7 @@ func main() {
 		in = bufio.NewReader(os.Stdin)
 		
     } else {
-        println("[DEBUG] Stdin is empty\n")
+        fmt.Fprintf(os.Stderr, "[DEBUG] Stdin is empty\n")
         
 		optHelp := getopt.BoolLong("help", 0, "Help")
 		getopt.Parse()
@@ -42,7 +42,7 @@ func main() {
 		}	
 		// Get the remaining positional parameters
 	
-		fmt.Println("[DEBUG] positional args: ", args)
+		fmt.Fprintf(os.Stderr, "[DEBUG] positional args: %s\n", args)
 		var fn string
 		if (len(args) == 0) {
 			home, _ := os.UserHomeDir() 

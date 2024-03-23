@@ -24,20 +24,19 @@ func main() {
         os.Exit(0)
     }
 
-    fmt.Println("File:\t" + *file)
-    fmt.Println("Name:\t" + *optName)
+    fmt.Fprintf(os.Stderr, "File:\t" + *file)
+    fmt.Fprintf(os.Stderr, "Name:\t" + *optName)
     
     // Get the remaining positional parameters
 	
-	fmt.Println("positional args: ", args)
+	fmt.Fprintf(os.Stderr, "positional args: %s\n", args)
 
-
-	document, err := gedcom.NewDocumentFromGEDCOMFile("/Users/sarnobat/sarnobat.git/gedcom/rohidekar.ged")
+	document, err := gedcom.NewDocumentFromGEDCOMFile(*file)
 	if err != nil {
 		panic(err)
 	}
 	//reflect.TypeOf(document)
-	fmt.Print(reflect.TypeOf(document))
+	fmt.Fprintf(os.Stderr, "%s", reflect.TypeOf(document))
 	//fmt.Print(document)
 	
 	for _, individual := range document.Individuals() {
