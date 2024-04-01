@@ -21,7 +21,6 @@ func main() {
 		line := s
 
 		maxLength := 80
-		// 		indentLevel := 2
 		if len(line) > maxLength {
 			foldedLines := splitLongLineToArray(line, maxLength)
 			fmt.Println(foldedLines[0])
@@ -29,7 +28,7 @@ func main() {
 				fmt.Println("  " + foldedLine)
 			}
 		} else {
-			fmt.Println(line)
+			fmt.Print(line)
 		}
 	}
 }
