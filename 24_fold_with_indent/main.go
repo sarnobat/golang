@@ -24,9 +24,10 @@ func main() {
 		if len(line) > maxLength {
 			foldedLines := splitLongLineToArray(line, maxLength)
 			fmt.Println(foldedLines[0])
-			for _, foldedLine := range foldedLines[1:] {
+			for _, foldedLine := range foldedLines[1:len(foldedLines)-1] {
 				fmt.Println("  " + foldedLine)
 			}
+			fmt.Print("  " + foldedLines[len(foldedLines)-1])
 		} else {
 			fmt.Print(line)
 		}
