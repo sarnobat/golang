@@ -11,7 +11,7 @@ set -o nounset
 
 PROGRAM_NAME="abs2rel"
 
-cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
+cat <<EOF | tee /tmp/run.sh | \batcat --style=plain --paging=never --language sh --theme TwoDark
 set -e
 GOOS=linux GOARCH=amd64 go build $PROGRAM_NAME.go
 mv $PROGRAM_NAME $PROGRAM_NAME.linux
@@ -19,7 +19,8 @@ GOOS=darwin GOARCH=arm64 go build $PROGRAM_NAME.go
 mv $PROGRAM_NAME $PROGRAM_NAME.mac.m1
 GOOS=darwin GOARCH=amd64 go build $PROGRAM_NAME.go
 mv $PROGRAM_NAME $PROGRAM_NAME.mac.intel
-
+GOOS=windows GOARCH=amd64 go build $PROGRAM_NAME.go
+mv ${PROGRAM_NAME}.exe ${PROGRAM_NAME}.exe
 
 rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
 rsync -a -v *linux 	/Volumes/git/github/binaries/linux/bin

@@ -15,8 +15,8 @@ mv main $NAME.mac.intel
 env GOOS=darwin GOARCH=arm64 go build main.go
 mv main $NAME.mac.m1
 
-cp -a -v main.linux 		~/github/binaries/linux/bin/${NAME}
-cp -a -v main.mac.intel 	~/github/binaries/mac.intel/bin/${NAME}
-cp -a -v main.mac.m1		~/github/binaries/mac.m1/bin/${NAME}
-cp -a -v main.exe			~/github/binaries/windows/bin/${NAME}.exe
+cp -a -v ${NAME}.linux 		~/github/binaries/linux/bin/${NAME}
+cp -a -v ${NAME}.mac.intel 	~/github/binaries/mac.intel/bin/${NAME}
+cp -a -v ${NAME}.mac.m1		~/github/binaries/mac.m1/bin/${NAME}
+cp -a -v ${NAME}.exe			~/github/binaries/windows/bin/${NAME}.exe
 
