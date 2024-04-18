@@ -78,8 +78,8 @@ func main() {
 				return;
 			}
 		} else {
-			log.Fatal(err)
-// 			fmt.Fprintln(os.Stderr, "Error 3")
+// 			log.Fatal("Size arg needs + or -")
+			fmt.Fprintln(os.Stderr, "Size arg needs + or -")
 			return
 		}
 	}
@@ -105,7 +105,7 @@ func main() {
 // 				fmt.Fprintf(os.Stderr, "in range: [%d] %d [%d]  %10s \n", lower, fileInfo.Size(), upper, p)
 				fmt.Println(p)
 			case fileInfo.Size() > 10*1024*1024:
-// 				fmt.Printf("File %s is bigger than 10MB (%d bytes)\n", filePath, fileInfo.Size())
+// 				fmt.Printf("File %s is bigger than 10MB (%d bytes)\n", p, fileInfo.Size())
 
 			default:
 // 				fmt.Fprintf(os.Stderr, "not in range: [%d] %d [%d]  %s\n",  lower, fileInfo.Size(), upper, p)
