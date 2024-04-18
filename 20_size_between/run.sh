@@ -9,7 +9,7 @@
 set -o errexit
 set -o nounset
 
-FILE="size"
+FILE="sizeis"
 cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
 set -e
 GOOS=linux GOARCH=amd64 go build ${FILE}.go
