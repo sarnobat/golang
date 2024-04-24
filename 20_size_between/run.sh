@@ -23,6 +23,7 @@ mv ${FILE} ${FILE}.mac.intel
 rsync -a -v *m1		/Volumes/git/github/binaries/mac.m1/bin
 rsync -a -v *linux 	/Volumes/git/github/binaries/linux/bin
 rsync -a -v *intel 	/Volumes/git/github/binaries/mac.intel/bin
+rsync -a -v *exe 	/Volumes/git/github/binaries/windows/bin
 EOF
 
 cat <<EOF | \batcat --plain --paging=never --language sh --theme TwoDark
