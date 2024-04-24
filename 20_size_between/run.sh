@@ -12,6 +12,8 @@ set -o nounset
 FILE="sizeis"
 cat <<EOF | tee /tmp/run.sh | \batcat --plain --paging=never --language sh --theme TwoDark
 set -e
+GOOS=windows GOARCH=amd64 go build ${FILE}.go
+mv ${FILE}.exe ${FILE}.exe
 GOOS=linux GOARCH=amd64 go build ${FILE}.go
 mv ${FILE} ${FILE}.linux
 GOOS=darwin GOARCH=arm64 go build ${FILE}.go
