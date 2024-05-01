@@ -6,3 +6,7 @@ EOF
 
 env GOOS=linux GOARCH=amd64 go build main.go
 mv main size_sum.linux
+
+env GOOS=darwin GOARCH=amd64 go build main.go
+mv main size_sum.mac.intel
+
