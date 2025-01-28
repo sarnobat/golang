@@ -1,4 +1,4 @@
-module rohidekar.com/stopword
+module rohidekar.com/stopwordrm
 
 go 1.22.0
 
