@@ -41,10 +41,12 @@ func main() {
 //             lemma := g.Lemmatize(word)
            	out := g.Lemma(word)
 
-            fmt.Printf("Original: %s -> Lemma: %s\n", word, out)
+//            fmt.Printf("Original: %s -> Lemma: %s\n", word, out)
+			fmt.Printf("%s\n", out)
+			fmt.Fprintf(os.Stderr, "[debug] %s -> %s\n", word, out)
         }
 
-        break // Exit after processing one line (you can modify this for continuous input)
+//         break // Exit after processing one line (you can modify this for continuous input)
     }
 
     if err := scanner.Err(); err != nil {
