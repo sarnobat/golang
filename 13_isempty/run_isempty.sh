@@ -9,7 +9,7 @@
 set -o errexit
 set -o nounset
 
-PROGRAM_NAME="abs2rel"
+PROGRAM_NAME="isempty"
 
 cat <<EOF | tee /tmp/run.sh | \batcat --style=plain --paging=never --language sh --theme TwoDark
 set -e
@@ -38,6 +38,4 @@ cd /Volumes/git/github/binaries/
 
 To build all:
 sh /tmp/run.sh
-
-TODO: Also have one that creates a relative path between 2 directories (by subtracting the common prefix)
 EOF
