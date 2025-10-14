@@ -1,5 +1,5 @@
 # Name of the binary
-BINARY_NAME=myapp
+BINARY_NAME=main
 
 # Output directory
 BUILD_DIR=build
