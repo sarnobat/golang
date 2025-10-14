@@ -1,2 +1,2 @@
 all:
-	echo "TODO 2025-10-13"
+	go build
