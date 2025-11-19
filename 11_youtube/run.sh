@@ -27,4 +27,8 @@ Easiest (for public urls)
 -------
 (I'm also storing the output here: https://docs.google.com/spreadsheets/d/1n05xdlaG4oPppcpkJUmvrVjVz2TK43ZHiMuKiMk0F6c/edit?gid=435927657#gid=435927657)
 sh /Volumes/git/computers.git/2022/mac/bin/2022/2021/youtube_playlists.sh | tee ~/db.git/youtube_playlists.public.`date -I`.txt
+
+Easiest (for private urls)
+-------
+/Volumes/git/src.git/python/youtube_playlists_python/yt.py
 EOF
