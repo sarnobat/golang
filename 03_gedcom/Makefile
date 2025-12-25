@@ -1,3 +1,4 @@
+.PHONY:	indent gedcom2mwk
 run:	gedcom2mwk
 
 
