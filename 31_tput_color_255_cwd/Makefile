@@ -1,14 +1,21 @@
 BINARY := cwd2color
+ARCH := $(shell go env GOARCH)
+UNAME := $(shell uname)
 
-.PHONY: all build clean run
+.PHONY: all build build-linux build-mac clean run
 
 all: build
 
-build:
-	go build -o $(BINARY)
+build: build-linux build-mac
+
+build-linux:
+	GOOS=linux GOARCH=$(ARCH) go build -o $(BINARY).Linux
+
+build-mac:
+	GOOS=darwin GOARCH=$(ARCH) go build -o $(BINARY).Darwin
 
 run: build
-	./$(BINARY)
+	./$(BINARY).$(UNAME)
 
 clean:
-	rm -f $(BINARY)
+	rm -f $(BINARY) $(BINARY).Linux $(BINARY).Darwin
