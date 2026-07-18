@@ -9,7 +9,7 @@ cp playlists playlists.osx
 GOPATH=/Users/sarnobat/2021/gopath/ env GOOS=darwin GOARCH=amd64 go build playlist_items.go
 cp playlist_items playlist_items.osx
 
-# Note: watch later playlist is not supported anymore by the API. Back to greasemonkey :(
+# Note: watch later playlist is not supported anymore by the API. Back to greasemonkey :(. Or actually, see /Volumes/git/computers.git/mac/bin/youtube_watchlist_export_plaintext.sh
 
 # TODO - try to do this with a Dockerfile for experience, and to see what is still not automatic
 # minimal example
